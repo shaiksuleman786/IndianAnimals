@@ -1,0 +1,61 @@
+{
+    "tropical": [
+      {
+        "src": "https://cdn.quotesgram.com/img/50/86/355679640-Tropical_Rainforest_Lacey_Creek_Queensland_Australia.jpg",
+        "name": "Tropical",
+        "species": "3245 Species"
+      },
+      {
+        "src": "https://c4.wallpaperflare.com/wallpaper/496/235/602/nature-winter-norway-wallpaper-preview.jpg",
+        "name": "Polar",
+        "species": "4100 Species"
+      },
+      {
+        "src": "https://userscontent2.emaze.com/images/5ba7b3c4-a581-45ce-b0ee-51dae87ac52a/4849467f-23d3-4c92-a737-79c13521153c.png",
+        "name": "Arid",
+        "species": "3245 Species"
+      },
+      {
+        "src": "https://biologydictionary.net/wp-content/uploads/2017/11/Blue-Ridge-Parkway.jpg",
+        "name": "Temperate",
+        "species": "4100 Species"
+      }
+    ],
+    "wildlife": [
+      {
+        "src": "https://th.bing.com/th/id/R.9118ae4a9b8ca6a43ab107dbeaca249f?rik=OSCa5JpTlI66Fg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f4%2fb%2f9%2f91971.jpg&ehk=LkHS6rsNFBEJ6qi5tfuxtycO7gBdDLjEqNi2OB7%2ff9c%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Wildlife",
+        "species": "5000 Species"
+      },
+      {
+        "src": "https://cdn.britannica.com/66/94366-050-472C4EAC/sun-savanna-African-Kenya-country.jpg",
+        "name": "Savannah",
+        "species": "1200 Species"
+      }
+    ],
+    "conservation": [
+      {
+        "src": "https://p1.pxfuel.com/preview/282/986/460/nature-mammal-animal-wildlife.jpg",
+        "name": "Endangered",
+        "species": "350 Species"
+      },
+      {
+        "src": "https://wallpaperaccess.com/full/4133736.jpg",
+        "name": "Protected",
+        "species": "900 Species"
+      }
+    ],
+    "geography": [
+      {
+        "src": "https://th.bing.com/th/id/R.2777d61a562bfd6f79064c7889af5285?rik=RbQdCpViIfgrnQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fd%2f1%2f2%2f740880-top-himalayas-wallpaper-2560x1600-for-mobile-hd.jpg&ehk=8BseyFGBdnTRmHZZUJePENor7U5FvMU9sUFQZz%2f6F3A%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Mountains",
+        "species": "1200 Species"
+      },
+      {
+        "src": "https://resources.news.e.abb.com/images/2022/10/10/1/ABB_Varanisi_1.jpg",
+        "name": "Rivers & Lakes",
+        "species": "800 Species"
+      }
+    ]
+  }
+  

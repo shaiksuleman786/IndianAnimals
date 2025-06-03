@@ -1,0 +1,269 @@
+{
+  "animals":[
+  {
+    "name": "Indian Honey Bee",
+    "scientificName": "Apis cerana indica",
+    "imageUrl": "https://sdzwildlifeexplorers.org/sites/default/files/2020-05/activities-hero-bee.jpg",
+    "category": "Insects",
+    "popularity": 9.1,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Stick Insect",
+    "scientificName": "Carausius morosus",
+    "imageUrl": "https://smallexoticfarm.ie/wp-content/uploads/2018/07/IMG_2038.jpg",
+    "category": "Insects",
+    "popularity": 8.5,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Atlas Moth",
+    "scientificName": "Attacus atlas",
+    "imageUrl": "https://th.bing.com/th/id/OIP.jBQE0h7ZhPVFaPBMb4dDLgAAAA?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 9.3,
+    "regions": ["TROPICAL", "PROTECTED"]
+  },
+  {
+    "name": "Common Jezebel",
+    "scientificName": "Delias eucharis",
+    "imageUrl": "https://c2.staticflickr.com/6/5022/5573345565_9d7bdfbaf7_b.jpg",
+    "category": "Insects",
+    "popularity": 8.9,
+    "regions": ["TEMPERATE"]
+  },
+  {
+    "name": "Indian Leaf Insect",
+    "scientificName": "Phyllium siccifolium",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/004/499/341/non_2x/leaf-insect-on-leaf-free-photo.jpg",
+    "category": "Insects",
+    "popularity": 8.7,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Crimson Rose",
+    "scientificName": "Pachliopta hector",
+    "imageUrl": "https://th.bing.com/th/id/OIP.q3lRxueH4kT_F4fGY4lWxwHaFj?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 9.0,
+    "regions": ["ENDANGERED", "WILDLIFE"]
+  },
+  {
+    "name": "Common Mormon",
+    "scientificName": "Papilio polytes",
+    "imageUrl": "https://dmc.dilmahtea.com/web-space/dmc/butterflies/b888b29826bb53dc531437e723738383d8339b56/148938787721426.png",
+    "category": "Insects",
+    "popularity": 8.6,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Tussar Silkworm Moth",
+    "scientificName": "Antheraea mylitta",
+    "imageUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/tussar-silk-moth-zeeshan-mirza.jpg",
+    "category": "Insects",
+    "popularity": 8.8,
+    "regions": ["WILDLIFE"]
+  },
+  {
+    "name": "Blue Mormon",
+    "scientificName": "Papilio polymnestor",
+    "imageUrl": "https://dmc.dilmahtea.com/web-space/dmc/butterflies/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f/148938661397122.png",
+    "category": "Insects",
+    "popularity": 9.2,
+    "regions": ["TROPICAL", "PROTECTED"]
+  },
+  {
+    "name": "Indian Tiger Beetle",
+    "scientificName": "Cicindela sexguttata",
+    "imageUrl": "https://th.bing.com/th/id/OIP.HaLg54f1KGGxaStUKgv2PAHaFH?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 8.3,
+    "regions": ["MOUNTAIN"]
+  },
+  {
+    "name": "Indian Stick Grasshopper",
+    "scientificName": "Ramulus artemis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.frabeUfL3Byc5tHLoKPg4wHaE6?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.9,
+    "regions": ["ARID"]
+  },
+  {
+    "name": "Indian Praying Mantis",
+    "scientificName": "Hierodula membranacea",
+    "imageUrl": "https://1.bp.blogspot.com/-FyGL2wwIM3o/XvbaH5o_FII/AAAAAAACU-w/hBxBjP6SKbkw55ONmLluhO0Q69EKzcfWwCK4BGAsYHg/w1200-h630-p-k-no-nu/DSC_1114.jpg",
+    "category": "Insects",
+    "popularity": 8.4,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Painted Grasshopper",
+    "scientificName": "Poekilocerus pictus",
+    "imageUrl": "https://bugguide.net/images/cache/JRM/QDR/JRMQDRXQURU0TQ70JQX0R060L0MQK0KQZ0M01RYKJQG0CQX0ARJKCQG09RI0FQ70DQRQAR803QRQWRYKORQQS00QTR.jpg",
+    "category": "Insects",
+    "popularity": 8.6,
+    "regions": ["SAVANNAH"]
+  },
+  {
+    "name": "Indian Longhorn Beetle",
+    "scientificName": "Batocera rufomaculata",
+    "imageUrl": "https://th.bing.com/th/id/R.256ff902fa9351272384790037275edf?rik=Qn9vr3qpHrfN8Q&riu=http%3a%2f%2fwww.whatsthatbug.com%2fwp-content%2fuploads%2f2008%2f11%2fcerambycid_2_india.jpg",
+    "category": "Insects",
+    "popularity": 7.8,
+    "regions": ["TEMPERATE"]
+  },
+  {
+    "name": "Cotton Stainer Bug",
+    "scientificName": "Dysdercus cingulatus",
+    "imageUrl": "https://th.bing.com/th/id/R.6fa17111aee84996a633d362cc6661de?rik=%2bS0i3TRd6fF2JQ&riu=http%3a%2f%2fbugguide.net%2fimages%2fcache%2fTK5%2fKAK%2fTK5KAK4K6KAQ10EQA06Q10PQA0EQD0ZKB0QKC0KKA08QPKEQV0NQ106QB0HK9K4KUK4QD0RKWKPQZSAQ30IKBKAQ.jpg",
+    "category": "Insects",
+    "popularity": 7.5,
+    "regions": ["ARID"]
+  },
+  {
+    "name": "Green Darner Dragonfly",
+    "scientificName": "Anax junius",
+    "imageUrl": "https://th.bing.com/th/id/OIP.NEahDSpEkXAcc73Oiz1J2gHaEO?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 8.1,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Dung Beetle",
+    "scientificName": "Scarabaeus sacer",
+    "imageUrl": "https://th.bing.com/th/id/OIP.MuDDCbtku0AaB6MuF3WVNwHaE8?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.4,
+    "regions": ["WILDLIFE"]
+  },
+  {
+    "name": "Indian Ladybird Beetle",
+    "scientificName": "Coccinella transversalis",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/42900412/large.jpeg",
+    "category": "Insects",
+    "popularity": 8.0,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Common Rose",
+    "scientificName": "Pachliopta aristolochiae",
+    "imageUrl": "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/8/2022/03/DSC06293-Common-Rose.jpg",
+    "category": "Insects",
+    "popularity": 8.8,
+    "regions": ["ENDANGERED"]
+  },
+  {
+    "name": "Indian Termite",
+    "scientificName": "Odontotermes obesus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.NzD67O667UEgPHHmZC00xwHaFj?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.3,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Indian Ant",
+    "scientificName": "Camponotus compressus",
+    "imageUrl": "https://im.indiatimes.in/content/2021/Apr/ants-2_60782fe93bcba.jpg",
+    "category": "Insects",
+    "popularity": 7.9,
+    "regions": ["WILDLIFE"]
+  },
+  {
+    "name": "Common Castor",
+    "scientificName": "Ariadne merione",
+    "imageUrl": "https://th.bing.com/th/id/OIP.pOihDK_mEZvEVheU2yuUiwHaF7?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 8.2,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Glassy Tiger",
+    "scientificName": "Parantica aglea",
+    "imageUrl": "https://i.pinimg.com/736x/32/ad/07/32ad0792c425d1e812c8101cdb915cf4.jpg",
+    "category": "Insects",
+    "popularity": 8.5,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Danaid Eggfly",
+    "scientificName": "Hypolimnas misippus",
+    "imageUrl": "https://live.staticflickr.com/4123/4893681364_c5e993dba3_o.jpg",
+    "category": "Insects",
+    "popularity": 8.6,
+    "regions": ["TROPICAL", "PROTECTED"]
+  },
+  {
+    "name": "Common Crow",
+    "scientificName": "Euploea core",
+    "imageUrl": "https://thumbs.dreamstime.com/b/common-crow-butterfly-conifer-branch-oleander-euploea-core-perching-pine-showing-wing-undersides-37020033.jpg",
+    "category": "Insects",
+    "popularity": 8.3,
+    "regions": ["TROPICAL"]
+  },
+  {
+    "name": "Indian Meal Moth",
+    "scientificName": "Plodia interpunctella",
+    "imageUrl": "https://th.bing.com/th/id/OIP.mOxuA4Ayj4cu1jHrbmBDWgHaEZ?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.4,
+    "regions": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Silverfish",
+    "scientificName": "Lepisma saccharinum",
+    "imageUrl": "https://hablemosdeinsectos.com/wp-content/uploads/2017/08/Lepisma-saccharina8.jpg",
+    "category": "Insects",
+    "popularity": 7.2,
+    "regions": ["TEMPERATE"]
+  },
+  {
+    "name": "Indian Mole Cricket",
+    "scientificName": "Gryllotalpa africana",
+    "imageUrl": "https://th.bing.com/th/id/OIP.by_nf8YegZLPrjnI79ksygHaE6?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.0,
+    "regions": ["TROPICAL", "ARID"]
+  },
+  {
+    "name": "Indian Housefly",
+    "scientificName": "Musca domestica",
+    "imageUrl": "https://th.bing.com/th/id/OIP.wqJmSy3RXeWAyVcVIR2negHaE8?w=957&h=638&rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.1,
+    "regions": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Bluebottle Fly",
+    "scientificName": "Calliphora vomitoria",
+    "imageUrl": "https://bugguide.net/images/raw/NRK/QFR/NRKQFRHQNRYK9RYKWRRQWR70NRRQFR603R20S0P0JRN00060K0603RU0K0W0H07QZ07QORYKCQ60Q0QQ.jpg",
+    "category": "Insects",
+    "popularity": 7.8,
+    "regions": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Cotton Bollworm",
+    "scientificName": "Helicoverpa armigera",
+    "imageUrl": "https://th.bing.com/th/id/OIP.SusimyO--bA9o1GLhN1iYgHaHa?rs=1&pid=ImgDetMain",
+    "category": "Insects",
+    "popularity": 7.6,
+    "regions": ["ARID", "TROPICAL"]
+  },
+  {
+    "name": "Indian Green Lacewing",
+    "scientificName": "Chrysoperla carnea",
+    "imageUrl": "https://media.istockphoto.com/id/1405757197/photo/green-lacewing-chrysopa-perla-hunting-for-aphids-it-is-an-insect-in-the-chrysopidae-family.jpg?s=612x612&w=0&k=20&c=X3cxLT34qZ_CroL1SRWKVMUd-dF3Ommc55R09Et3x7U=",
+    "category": "Insects",
+    "popularity": 8.0,
+    "regions": ["WILDLIFE", "TEMPERATE"]
+  },
+  {
+    "name": "Indian Honey Ant",
+    "scientificName": "Melipona indica",
+    "imageUrl": "https://honeyantgallery.com/wp-content/uploads/2016/11/honey-ant.jpg",
+    "category": "Insects",
+    "popularity": 7.5,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  }
+]
+
+}

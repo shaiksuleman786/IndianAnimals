@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Image Slider</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="indes.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="bg-container ">
+            <div class="row courosel-container overflow-hidden">
+                <div class="col-12">
+                    <main class="">
+                        <ul class='slider'>
+                            <li class='item'
+                                style="background-image: url('https://images.alphacoders.com/436/436232.jpg')">
+                                <div class='content'>
+                                    <h2 class='titlex'>Bengal Tiger </h2>
+                                    <p class='description' >The Bengal tiger, India's national animal, is a powerful and agile predator found in forests and grasslands. Conservation efforts help protect its declining population.</p>
+                                </div>
+                            </li>
+                            <li class='item'
+                                style="background-image: url('https://images8.alphacoders.com/362/thumb-1920-362762.jpg')">
+                                <div class='content'>
+                                    <h2 class='titlex'>Polar Bear </h2>
+                                    <p class='description'>The polar bear is a large Arctic predator adapted to icy environments, relying on sea ice to hunt seals. Climate change threatens its survival.</p>
+                                </div>
+                            </li>
+                            <li class='item'
+                                style="background-image: url('https://images.pexels.com/photos/146095/pexels-photo-146095.jpeg?w=940&h=650&auto=compress&cs=tinysrgb')">
+                                <div class='content'>
+                                    <h2 class='titlex'>Red Panda</h2>
+                                    <p class='description'>The red panda is a small, tree-dwelling mammal native to the Himalayas, known for its reddish fur and bushy tail. It primarily feeds on bamboo and is endangered due to habitat loss.</p>                                </div>
+                            </li>
+                            <li class='item'
+                                style="background-image: url('https://wallpapercave.com/wp/wp6436945.jpg')">
+                                <div class='content'>
+                                    <h2 class='titlex'>Cheetah</h2>
+                                    <p class='description'>The cheetah is the fastest land animal, capable of reaching speeds up to 120 km/h. Found in grasslands, it relies on speed to hunt but faces threats from habitat loss.</p>
+                                </div>
+                            </li>
+                            <li class='item'
+                                style="background-image: url('https://images5.alphacoders.com/332/thumb-1920-332189.jpg')">
+                                <div class='content'>
+                                    <h2 class='titlex'>Indian Wolf </h2>
+                                    <p class='description'>The Indian wolf is a medium-sized, slender wolf found in grasslands and scrub forests of India. It is a skilled hunter but faces threats from habitat loss and human conflict.</p>
+                                </div>
+                            </li>
+                        </ul>
+                        <nav class='nav'>
+                            <ion-icon class='btn prev' name="arrow-back-outline"></ion-icon>
+                            <ion-icon class='btn next' name="arrow-forward-outline"></ion-icon>
+                        </nav>
+                    </main>
+
+                </div>
+            </div>
+            <marquee behavior="scroll" direction="left" class="scrollalert">This is moving text!</marquee>
+            <div class="endangered pt-3">
+                <div class="container">
+                    <div class="row">
+                        <div class="card-endangered ">
+                            <div class="loader">
+                                <p>ENDANGERED SPECIES</p>
+                                <div class="words">
+                                    <span class="word">Bengal tiger</span>
+                                    <span class="word">Asiatic Lion</span>
+                                    <span class="word">Snow Leopard</span>
+                                    <span class="word">One-horned Rhinoceros</span>
+                                    <span class="word">Lion-tailed Macaque</span>
+                                    <span class="word">Resplendent Tree Frog</span>
+                                    <span class="word">Kashmiri Red Stag</span>
+                                    <span class="word">Nilgiri Tahr</span>
+                                    <span class="word">Indian Bison (Gaur)</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                             
+                            <div class="scrolling-wrapper">
+                                <div class="card-endangered1 linear-gradient-background ">
+        <img src="https://wallpapers.com/images/featured/bengal-tiger-pictures-xiej6zgcrc3y62uk.jpg" alt="Royal Bengal tiger" class="card-img-top" />
+                                         
+                               </div>
+                                <div class="card-endangered1  linear-gradient-background">
+        <img src="https://tigertribe.net/wp-content/uploads/2022/05/Gorilla-Vs-Lion-Who-Would-Win-In-A-Fight2-1024x683.jpg" alt="Asiatic Lion" class="card-img-top" />
+                                </div>
+        
+                                <div class="card-endangered1  linear-gradient-background">
+        <img src="https://th.bing.com/th/id/OIP.Kma7ngunjX9rgFDw_N_HDAHaFn?rs=1&pid=ImgDetMain" alt="Snow Leopard" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1  linear-gradient-background">
+        <img src="https://live.staticflickr.com/4096/4899732062_53916f398f_b.jpg" alt="One-horned Rhinoceros" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://th.bing.com/th/id/OIP.NseeztHKpjs0r5vCdTX-CwHaFf?rs=1&pid=ImgDetMain" alt="Blackbuck" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://vignette.wikia.nocookie.net/animals-are-cool/images/f/f5/Lion-tailed_macaque_by_N_A_Nazeer.jpg/revision/latest/scale-to-width-down/2000?cb=20180327213840 " alt="Lion-tailed Macaque" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://preview.redd.it/ft58gcl2ywo81.jpg?width=2592&format=pjpg&auto=webp&s=7ad789b2a13a86b1522fc8dd4233f32a25febfd0"alt="Resplendent Tree Frog" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://3.bp.blogspot.com/-PtRj38OfdLw/UcMDsHSlz2I/AAAAAAAAAFM/M7KOFS22rT0/s1600/1227912.jpg" alt="Kashmiri Red Stag" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/nilgiri-tahr-3-hira-punjabi.jpg" alt="Nilgiri Tahr" class="card-img-top" />
+                                </div>
+                                <div class="card-endangered1 linear-gradient-background">
+        <img src="https://th.bing.com/th/id/OIP.DCKkPy3BUol53bBk3vaGrQHaE3?rs=1&pid=ImgDetMain" alt="Indian Bison (Gaur)" class="card-img-top" />
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+<br>
+<br>
+        <h1 class="main-headingsxs" >All <b>animals!</b></h1>
+         <div class="row"> 
+            <div class="d-flex flex-wrap justify-content-center">
+                <div class="">
+                <img src="allanimals.png" alt="">
+                </div>
+                    <div class="">
+                        <a href="category.html?category=Mammals">
+                        
+                    <div class="card2 ">
+                        <div class="wrapper">
+                            <img src="https://thumbs.dreamstime.com/b/large-group-african-safari-animals-wildlife-conservation-concept-174172993.jpg"
+                                class="cover-image" />
+                        </div>
+                        <h1 class="title">MAMMALS</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737796511/Persistence-and-Reversibility-of-Wild-Animal-Welfare-Interventions-removebg-preview_waj043.png"
+                            class="character" />
+                    </div>
+                        </a>
+                </div>
+                <div class="">
+                    <a href="category.html?category=Birds">
+                    <div class="card2">
+                        <div class="wrapper">
+                            <img src="https://img.freepik.com/premium-photo/photography-birds-their-natural-habitats-with-different-species_883586-15012.jpg"
+                                class="cover-image" />
+                        </div>
+                        <h1 class="title">BIRDS</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737797630/wmremove-transformed-removebg-preview_cjzmyx.png"
+                            class="character" />
+                    </div>
+               </a>
+                </div>
+                <div class="">
+                    <a href="category.html?category=Reptiles">
+                    <div class="card2">
+                        <div class="wrapper">
+                            <img src="https://wallpapercave.com/wp/8pH3E4U.jpg" class="cover-image" />
+                        </div>
+                        <h1 class="title">REPTILES</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737800341/R-removebg-preview_3_wqlys7.png"
+                            class="character" />
+                    </div>
+                </a>
+                </div>
+                <div class="">
+                    <a href="category.html?category=Amphibians"> 
+                    <div class="card2">
+                        <div class="wrapper">
+                            <img src="https://img.freepik.com/premium-photo/detailed-illustration-group-amphibians-such-as-frogs-salamanders-vibrant-liv_883586-24214.jpg"
+                                class="cover-image" />
+                        </div>
+                        <h1 class="title">AMPHIBIAN</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737800857/green-frogs-white-background-ai-generated_124715-4829-removebg-preview_vk2hy8.png"
+                            class="character" />
+                    </div>
+                </a>
+                </div>
+                <div class=" ">
+                    <a href="category.html?category=Fish"> 
+                    <div class="card2">
+                        <div class="wrapper">
+                            <img src="https://img.buzzfeed.com/buzzfeed-static/static/2021-10/7/19/asset/62140b465614/sub-buzz-976-1633634770-1.jpg?downsize=700:*&output-quality=auto&output-format=auto"
+                                class="cover-image" />
+                        </div>
+                        <h1 class="title">FISH</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737810063/7348d62aced842e000048b576a39f2f1-removebg-preview_1_f4rj0f.png"
+                            class="character" />
+                    </div>
+                    </a>
+                </div>
+                <div class=" ">
+                    <a href="category.html?category=Insects"> 
+                    <div class="card2">
+                        <div class="wrapper">
+                            <img src="https://img.freepik.com/premium-photo/cluster-beetles-decaying-branch-created-with-generative-ai_419341-53495.jpg"
+                                class="cover-image" />
+                        </div>
+                        <h1 class="title">INSECTS</h1>
+                        <img src="https://res.cloudinary.com/dqji8tsig/image/upload/v1737811403/depositphotos_84101626-stock-photo-rhinoceros-beetle-rhino-beetlefighting-beetle-removebg-preview_i2bfjl.png"
+                            class="character" />
+                    </div>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+        <br>
+        <h2 class="main-headingsxs">
+            Not every animal has a tail,<br>But every animal has a <b>story</b>
+          </h2>
+           <style>
+nav {
+  padding: 10px;
+ 
+  display: flex;
+   
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #d4aeb4;
+  padding-bottom: 5px;
+  border-bottom: 3px solid transparent;
+}
+
+nav a.active {
+  color: #4a8f2b;
+  border-bottom: 3px solid #4a8f2b;
+}
+
+.section {
+  display: none;
+  padding: 20px;
+}
+
+.section.active {
+  display: block;
+}
+
+.container {
+  display: flex;
+  gap:20px;
+  padding: 20px;
+  justify-content: center;
+  flex-wrap: nowrap;  /* don't wrap to next line */
+    /* allow scrolling if content too wide */
+}
+
+.card {
+  width: 350px;
+  height: 280px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  position: relative;
+  cursor: pointer;
+  color: white;
+  flex-shrink: 0;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-content {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.card p {
+  margin: 5px 0 0;
+  font-size: 18px;
+}
+/* Responsive styles */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    width: 90%;
+    height: auto;
+  }
+
+  .card img {
+    height: 200px;
+  }
+
+  .card h2 {
+    font-size: 22px;
+  }
+
+  .card p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card img {
+    height: 150px;
+  }
+
+  .card h2 {
+    font-size: 20px;
+  }
+
+  .card p {
+    font-size: 14px;
+  }
+}
+
+   </style>
+        
+         
+  <nav>
+    <a href="#" class="active" onclick="event.preventDefault(); showSection('habitat', this)">Habitat</a>
+    <a href="#" onclick="event.preventDefault(); showSection('lifestyle', this)">Lifestyle and Behavior</a>
+    <a href="#" onclick="event.preventDefault(); showSection('conservation', this)">Conservation Status</a>
+    <a href="#" onclick="event.preventDefault(); showSection('geography', this)">Geography</a>
+  </nav>
+
+  <!-- HABITAT -->
+  <div id="habitat" class="section active">
+    <div class="container">
+      <div class="card" onclick="goToHabitat('Tropical')">
+        <img src="https://cdn.quotesgram.com/img/50/86/355679640-Tropical_Rainforest_Lacey_Creek_Queensland_Australia.jpg" alt="Tropical">
+        <div class="card-content"><h2>Tropical</h2><p>3245 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('Polar')">
+        <img src="https://c4.wallpaperflare.com/wallpaper/496/235/602/nature-winter-norway-wallpaper-preview.jpg" alt="Polar">
+        <div class="card-content"><h2>Polar</h2><p>4100 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('Arid')">
+        <img src="https://userscontent2.emaze.com/images/5ba7b3c4-a581-45ce-b0ee-51dae87ac52a/4849467f-23d3-4c92-a737-79c13521153c.png" alt="Arid">
+        <div class="card-content"><h2>Arid</h2><p>3245 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('Temperate')">
+        <img src="https://biologydictionary.net/wp-content/uploads/2017/11/Blue-Ridge-Parkway.jpg" alt="Temperate">
+        <div class="card-content"><h2>Temperate</h2><p>4100 Species</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LIFESTYLE -->
+  <div id="lifestyle" class="section">
+    <div class="container">
+      <div class="card" onclick="goToHabitat('Wildlife')">
+        <img src="https://th.bing.com/th/id/R.9118ae4a9b8ca6a43ab107dbeaca249f?rik=OSCa5JpTlI66Fg" alt="Wildlife">
+        <div class="card-content"><h2>Wildlife</h2><p>5000 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('Savannah')">
+        <img src="https://cdn.britannica.com/66/94366-050-472C4EAC/sun-savanna-African-Kenya-country.jpg" alt="Savannah">
+        <div class="card-content"><h2>Savannah</h2><p>1200 Species</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONSERVATION -->
+  <div id="conservation" class="section">
+    <div class="container">
+      <div class="card" onclick="goToHabitat('Endangered')">
+        <img src="https://p1.pxfuel.com/preview/282/986/460/nature-mammal-animal-wildlife.jpg" alt="Endangered">
+        <div class="card-content"><h2>Endangered</h2><p>920 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('protected')">
+        <img src="https://wallpaperaccess.com/full/4133736.jpg" alt="Protected">
+        <div class="card-content"><h2>Protected</h2><p>1300 Species</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- GEOGRAPHY -->
+  <div id="geography" class="section">
+    <div class="container">
+      <div class="card" onclick="goToHabitat('Mountains')">
+        <img src="https://th.bing.com/th/id/OIP.J3fWGlYr_W95Bkx4ia9ShQHaEo?rs=1&pid=ImgDetMain" alt=">Mountains">
+        <div class="card-content"><h2>Mountains</h2><p>3000 Species</p></div>
+      </div>
+      <div class="card" onclick="goToHabitat('Rivers & Lakes')">
+        <img src="https://resources.news.e.abb.com/images/2022/10/10/1/ABB_Varanisi_1.jpg" alt="Rivers & Lakes">
+        <div class="card-content"><h2>Rivers & Lakes</h2><p>2700 Species</p></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showSection(sectionId, element) {
+      document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
+      document.getElementById(sectionId).classList.add('active');
+      document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+      element.classList.add('active');
+    }
+
+    function goToHabitat(name) {
+      window.location.href = `habitat-animals.html?habitat=${encodeURIComponent(name)}`;
+    }
+  </script>
+        
+        
+          <br>
+
+
+          <br>
+          <!-- <h1>shark</h1>
+          <div class="alien-card">
+            <div class="text-content">
+                <h2>Great White Shark (Carcharodon carcharias)</h2>
+                <p><b>Top Predator:</b></p>
+                <ul>
+                    <li>Largest predatory fish on Earth.</li>
+                    <li>Known for size, speed, and powerful jaws.</li>
+                    <li>Apex predator with no natural enemies.</li>
+                </ul>
+            </div>
+            <div class="sketchfab-embed-wrapper">
+                <iframe 
+                  title="Model 92A - Great White Shark" 
+                  frameborder="0" 
+                  allowfullscreen 
+                  mozallowfullscreen="true" 
+                  webkitallowfullscreen="true" 
+                  allow="autoplay; fullscreen; xr-spatial-tracking" 
+                  xr-spatial-tracking 
+                  execution-while-out-of-viewport 
+                  execution-while-not-rendered 
+                  web-share 
+                  src="https://sketchfab.com/models/702e7b53637f4ded9ca479a8124e810d/embed?autostart=1&preload=1&ui_controls=0&ui_infos=0&ui_stop=0&ui_watermark=0&ui_watermark_link=0&transparent=1&delay=0&dnt=1&ui_annotations=0">
+                </iframe>
+            </div>
+        </div> -->
+        <br>
+
+        <h1 class="main-headingsxs">"Tiny <b>facts</b>, big surprises!"</h1>
+        
+        <div class="section-deal pt-3">
+             <div class="container-slide">
+                <div class="row">
+                    <div class="col-12 position-relative">
+                      
+                        <button class="scroll-btn left" id="leftBtn">&#10094;</button>
+    
+                        <div class="scrolling-wrapper-facts" id="scrollContainer">
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals9__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals8__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals14__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals4__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals2__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals7__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals13__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://static.boredpanda.com/blog/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals12__880.jpg">
+                            </div>
+                            <div class="card-facts">
+                                <img src="https://pleated-jeans.com/wp-content/uploads/2015/09/15-Amazing-Facts-You-Didnt-Know-About-Animals11__880.jpg">
+                            </div>
+                        </div>
+    
+                         
+                        <button class="scroll-btn right" id="rightBtn">&#10095;</button>
+                    </div>
+                </div>
+            </div> 
+            <div class="animal-facts-container">
+  
+                <div class="animal-facts-grid">
+                  <div class="fact fact-flamingo">A group of flamingos is called a 'flamboyance'</div>
+                  <div class="fact fact-octopus">Octopuses have three hearts</div>
+                  <div class="fact fact-sloth">Sloths can hold their breath underwater for up to 40 minutes</div>
+                  <div class="fact fact-koala">Koalas sleep up to 22 hours a day</div>
+                  <div class="fact fact-cow">Cows have best friends and get stressed when separated</div>
+                  <div class="fact fact-dolphin">Dolphins have names for each other and respond when called</div>
+                </div>
+              </div>
+        </div>
+    
+        <br>
+        <h1 class="main-headingsxs" style="text-align: center;" >beauty of indian <b>animals</b></h1>
+        <div class="bg-container-circle d-flex flex-row justify-content-center">
+            <div class="row">
+                <div class="card-all col-12">
+                    <div class="d-flex flex-row justify-content-between my-3">
+                         <a href="animal.html?name=American Crow"> 
+                        <div class="card-circle position-relative "  data-aos="fade-right"  >
+                            <img src="https://www.marwell.org.uk/wp-content/uploads/2021/04/Zoo-Photographer-Credit-Jason-Brown-Irina-3.jpg" class="circle-animals" alt="lion">
+                            <div class="image-text"> Snow Leopard </div>
+                        </div>
+                    </a>
+                        <div class="card-large position-relative " data-aos="fade-down"  >
+                            <img src="https://th.bing.com/th/id/OIP.R1wlhU29_NabSAA9Z3WbogHaE8?rs=1&pid=ImgDetMain" class="circle-animal" alt="lion">
+                            <div class="image-text"></div>
+                        </div>
+                        <a href="animal.html?name=Red%20Panda"> 
+                        <div class="card-circle position-relative" data-aos="fade-left"  >
+                            <img src="https://th.bing.com/th/id/OIP.v4QZv33nwjPb_bStpSXQ8gHaEK?rs=1&pid=ImgDetMain" class="circle-animals" alt="lion">
+                            <div class="image-text">red panda</div>
+                        </div>
+                    </a>
+                    </div>
+        
+                    <div class="d-flex flex-row justify-content-around my-3"  >
+                        <a href="animal.html?name=Black%20Panther"> 
+                        <div class="card-circle1 position-relative"  data-aos="fade-right"  >
+                            <img src="https://img.freepik.com/premium-photo/view-black-panther-wild_970137-24071.jpg" class="circle-animals" alt="lion">
+                            <div class="image-text">Black Panther</div>
+                        </div>
+                    </a>
+                    <a href="animal.html?name=Kashmir%20Stag" > 
+                        <div class="card-down position-relative"  data-aos="fade-up"  >
+                            <img src="https://www.pixelstalk.net/wp-content/uploads/2016/03/Cool-Wild-Animal-Wallpaper-For-Desktop.jpg" class="circle-animals" alt="lion">
+                            <div class="image-text">Kashmir Stag</div>
+                        </div>
+                    </a>
+                    <a href="animal.html?name=Nicobar%20Pigeon">
+                        <div class="card-circle2 position-relative" data-aos="fade-left"  >
+                            <img src="https://th.bing.com/th/id/OIP.pfAVo_DMaldlfis_4vGE1QHaEo?rs=1&pid=ImgDetMain" class="circle-animals" alt="lion">
+                            <div class="image-text"> Nicobar Pigeon</div>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    <br>
+
+<br>
+    <div class="wrapperb">
+        <div data-aos="fade-right" data-aos-duration="2000"> 
+        <div class="info-card bio-card">
+            <img src="https://static.vecteezy.com/system/resources/previews/024/674/842/non_2x/monkey-in-a-suit-and-tie-on-an-isolated-background-studio-business-concept-generative-ai-free-photo.jpg" alt="Monkey" class="thumbnail">
+            <div class="info-content">
+                <h2><img src="https://th.bing.com/th/id/OIP.Wl01bE_dA9gDesT9PAxBXAHaI9?w=800&h=968&rs=1&pid=ImgDetMain" class="icon-img">Why Did the Monkey Wear a Suit?</h2>
+                <p> "Because he had an important meeting at the banana bank! 🍌😂 Monkeys aren't just funny — they're clever, emotional, and incredibly expressive."</p>
+                <a href="https://www.mkewithkids.com/post/monkey-facts-for-kids/"> 
+                <button class="btn-read-more">Laugh & Learn</button>
+            </a>
+            </div>
+        </div>
+    </div>
+    <div data-aos="fade-left" data-aos-duration="2000"> 
+        <div class="info-card kind-card">
+            <img src="https://img.freepik.com/premium-photo/sheep-wearing-sunglasses-with-blue-background_1072138-417.jpg" alt="Sheep" class="thumbnail">
+            <div class="info-content">
+                <h2><img src="https://th.bing.com/th/id/OIP.REbY70zlCpCrvEflDYiw0AHaIU?rs=1&pid=ImgDetMain" class="icon-img"> Be AnimalKind</h2>
+                <p>What we eat, the clothes we buy, the products we clean with… Every decision we make has an impact on animals. Together we can create a more compassionate world.</p>
+                <button class="btn-read-more">Read more</button>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+ <br>
+ 
+
+<div class="bodys"> 
+    <div class="gallery-container">
+        <h1 class="gallery-heading">Our <span>Gallery</span></h1>
+        <div class="gallery">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-1.jpg" alt="Tiger" class="large" onclick="openPopup(this)">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-2.jpg" alt="Zebra" onclick="openPopup(this)">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-6.jpg" alt="Deer" onclick="openPopup(this)">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-4.jpg" alt="Elephants" onclick="openPopup(this)">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-5.jpg" alt="Giraffe" onclick="openPopup(this)">
+            <img src="https://sktperfectdemo.com/demos/wildlife/wp-content/uploads/2021/12/gallery-img-3.jpg" alt="Antelope" onclick="openPopup(this)">
+        </div>
+    </div>
+</div>
+
+<!-- Popup Container -->
+<div class="popup" id="popup">
+    <span class="close" onclick="closePopup()">&times;</span>
+    <img id="popup-img" src="" alt="Popup Image">
+</div>
+   <br>
+   <br>
+
+   <div class="container page-container mt-5">
+    <div class="row align-items-center">
+      <!-- Left Side: Image -->
+      <div class="col-md-4 position-relative text-center">
+        <div class="circle-bg d-md-block d-none"></div> 
+        <img src="giraffe.png" class="giraffe-head img-fluid" alt="Giraffe">
+      </div>
+
+      <!-- Right Side: Heading & Alphabet Grid -->
+      <div class="col-md-8 text-center">
+        <h1 class="main-headingsx mb-4">Animals from <b>A to Z</b></h1>
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <div class="d-flex flex-wrap justify-content-center" id="letters">
+              <script>
+                const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+                document.write(letters.map(letter => `
+                  <a href="animals.html?letter=${letter}" class="btn btn-outline-primary m-1 letter-btn">${letter}</a>
+                `).join(''));
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+        
+<div class="goalf-img"> 
+<div class="our-goalss"> 
+    <section class="our-goals">
+        <h1 class="main-headingsxs" style="text-align: center;"><b>Our <u> Goals</u></b></h1>
+        <h4 class="h4heading">We aim to provide simple and easy-to-understand information about Indian animals, their habitats, and their importance in nature.</h4>
+    
+        <div class="goals-grid">
+            <div class="goal-item">
+                <div class="goal-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5516/5516842.png" alt="Education">
+                </div>
+                <p style="font-size:15px;"><strong style="font-size:20px;">Educate People</strong> –  Spread awareness about Indian wildlife and biodiversity. </p>
+            </div>
+    
+            <div class="goal-item">
+                <div class="goal-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/11624/11624369.png" alt="Conservation">
+                </div>
+                <p><strong style="font-size:20px;">Promote Conservation</strong> – Encourage wildlife protection and conservation efforts.</p>
+            </div>
+    
+            <div class="goal-item">
+                <div class="goal-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5824/5824024.png" alt="Habitats">
+                </div>
+                <p><strong style="font-size:20px;">Highlight Habitats</strong> – Showcase India's diverse ecosystems and their importance.</p>
+            </div>
+    
+            <div class="goal-item w-100">
+                <div class="goal-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5869/5869065.png" alt="Species">
+                </div>
+                <p class=" m-auto"><strong style="font-size:20px;">Protect Endangered Species</strong> – Spread knowledge about rare and endangered animals.</p>
+            </div>
+    
+            <div class="goal-item">
+                <div class="goal-icon">
+                    <img src="https://abkimports.com/wp-content/uploads/2022/12/partners.png" alt="Community">
+                </div>
+                <p><strong style="font-size:20px;">Build a Community</strong> – Connect wildlife enthusiasts and nature lovers.</p>
+            </div>
+    
+            <div class="goal-item">
+                <div class="goal-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/18578/18578751.png" alt="Awareness">
+                </div>
+                <p><strong style="font-size:20px;">Raise Awareness</strong> – Provide updates on wildlife news and conservation programs.</p>
+            </div>
+        </div>
+    </section>
+    </div>
+</div>
+      <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>About Us</h3>
+                <p>Providing information about Indian animals in an easy-to-understand format.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Animals</a></li>
+                    <li><a href="#">Conservation</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@indiananimals.com</p>
+                <p>Phone: +91 123 456 7890</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Indian Animals | All Rights Reserved</p>
+        </div>
+    </footer>
+    
+</div>
+<script src="./test.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="index.js"></script>
+    <!-- <script src="habitat-script.js"></script> -->
+    
+    
+      <script>
+        function goToHabitat(habitat) {
+          window.location.href = `habitat-animals.html?habitat=${encodeURIComponent(habitat)}`;
+        }
+      </script> 
+</body>
+
+</html>

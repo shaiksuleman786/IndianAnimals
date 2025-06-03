@@ -1,0 +1,161 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Header */
+#header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#searchBar {
+    padding: 8px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Back Button */
+#backButton {
+    background-color: white;
+    color: #333;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#backButton:hover {
+    background-color: #ddd;
+}
+
+/* Intro Section */
+#intro-section {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: left;
+}
+
+#intro-section h1 {
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#species-count {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#info-box {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#info-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#info-text a {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#show-more {
+    background: none;
+    border: none;
+    color: yellow;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 5px;
+}
+
+/* Animal List */
+#animal-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Animal Card */
+.animal-card {
+    background-color: rgb(195, 237, 117);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    padding: 15px;
+}
+
+.animal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+.animal-image {
+    width: 100%;
+    height: 200px ;
+    object-fit: cover;
+    object-position:top;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.animal-card h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+
+.animal-card p {
+    font-size: 0.9rem;
+    color: #555;
+}
+.main-image{
+    height: 50px!important;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+/* Responsive Design */
+@media (max-width: 768px) {
+    #animal-list {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+
+    .animal-image {
+        width: 120px;
+        height: 120px;
+    }
+}
+

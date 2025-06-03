@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Animalia - Category</title>
+  <link rel="stylesheet" href="category.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">ANIMAL</div>
+    <input type="text" id="searchInput" placeholder="Quick search" />
+  </header>
+
+  <section class="category-banner">
+    <h1 id="categoryTitle">CATEGORY</h1>
+    <p id="speciesCount">Loading species...</p>
+  </section>
+
+  <section class="filters">
+    <button onclick="toggleFilters()">Use Filters</button>
+  
+    <select id="sortSelect" onchange="applySort()">
+      <option value="popularity">Popularity</option>
+      <option value="atoz">A to Z</option>
+    </select>
+  
+    <select id="groupSelect" onchange="applyGroup()">
+      <option value="none">None</option>
+      <option value="family">Family</option>
+      <option value="status">Population Status</option>
+    </select>
+  </section>
+  
+  <main id="animalGrid" class="animal-grid">
+    <!-- Animal cards inserted here -->
+  </main>
+
+  <div class="pagination-controls" style="text-align: center; margin: 40px 0;">
+    <button id="prevBtn" style="display: none;">⬅ Back</button>
+    <span id="paginationInfo" style="margin: 0 20px;">Loading...</span>
+    <button id="nextBtn">Load More ➡</button>
+  </div>
+  <script src="category.js"></script>
+</body>
+</html>

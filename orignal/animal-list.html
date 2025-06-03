@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Animal List</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background: #fefefe;
+    }
+
+    .animal-card {
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 15px;
+      margin: 15px;
+      width: 300px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      display: inline-block;
+      vertical-align: top;
+      background: #fff;
+    }
+
+    .animal-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .animal-info {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="regionTitle">Animals in Selected Region</h2>
+  <div id="animalContainer"></div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const region = params.get('region');
+    document.getElementById("regionTitle").innerText = `Animals in ${region}`;
+
+    fetch('animal_data.json')
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById("animalContainer");
+        const filtered = data.filter(a =>
+          a.region && a.region.toLowerCase().includes(region.toLowerCase())
+        );
+
+        if (filtered.length === 0) {
+          container.innerHTML = "<p>No animals found in this region.</p>";
+          return;
+        }
+
+        filtered.forEach(animal => {
+          const card = document.createElement("div");
+          card.classList.add("animal-card");
+          card.innerHTML = `
+            <img src="${animal.image}" alt="${animal.name}">
+            <div class="animal-info">
+              <h3>${animal.name}</h3>
+              <p><strong>Scientific Name:</strong> ${animal.scientific_name}</p>
+              <p><strong>Category:</strong> ${animal.category}</p>
+            </div>
+          `;
+          container.appendChild(card);
+        });
+      })
+      .catch(err => {
+        console.error("Failed to load animal data", err);
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,717 @@
+{
+  "animals": [
+  {
+    "name": "Indian Peafowl",
+    "scientificName": "Pavo cristatus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.GUUUN6wGcx8o8ZDkFVOznAHaEK?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 100,
+    "region": "TROPICAL"
+  },
+  {
+    "name": "House Sparrow",
+    "scientificName": "Passer domesticus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.gds2RYkmajCGOUkakYKT9gHaE6?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 98,
+    "region": ["TROPICAL", "TEMPERATE"]
+  },
+  {
+    "name": "Common Myna",
+    "scientificName": "Acridotheres tristis",
+    "imageUrl": "https://i.pinimg.com/originals/75/51/ec/7551ec88a9dbd4d25d9b1e8f415e88b3.jpg",
+    "category": "Birds",
+    "popularity": 96,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Roller",
+    "scientificName": "Coracias benghalensis",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/126556231/1800",
+    "category": "Birds",
+    "popularity": 95,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Rose-ringed Parakeet",
+    "scientificName": "Psittacula krameri",
+    "imageUrl": "https://www.lapetfair.com/wp-content/uploads/2024/03/rose-ringed-parakeet-1024x585.jpg",
+    "category": "Birds",
+    "popularity": 93,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Black Drongo",
+    "scientificName": "Dicrurus macrocercus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.956zi9ABSZO5KF4oBTO1YQAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 92,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Red-vented Bulbul",
+    "scientificName": "Pycnonotus cafer",
+    "imageUrl": "https://th.bing.com/th/id/R.587da55d70c512a156ae8010561c5106?rik=XGcvIAjinz%2f66w&riu=http%3a%2f%2flesoiseauxdufaucigny.l.e.pic.centerblog.net%2fo%2fc30cc336.jpg&ehk=%2bQEbEP4UyxbgyWEmmVK583Zr41LaoZp7wRqmH51rd1U%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Birds",
+    "popularity": 90,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "White-throated Kingfisher",
+    "scientificName": "Halcyon smyrnensis",
+    "imageUrl": "https://img.freepik.com/free-photo/white-throated-kingfisher-halcyon-smyrnensis_38810-841.jpg?size=626&ext=jpg",
+    "category": "Birds",
+    "popularity": 89,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Cattle Egret",
+    "scientificName": "Bubulcus ibis",
+    "imageUrl": "https://th.bing.com/th/id/R.a6a00be30d7e6f955fcea14c48a4ac9c?rik=IKtKCrFpbSTkHQ&riu=http%3a%2f%2fwww.wildsouthflorida.com%2fimages2020%2fcattle.egret.1.jpeg&ehk=BXxO2ualxAW%2fbEhndaWyxe74OvwwZCEJnOORujgVMBk%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Birds",
+    "popularity": 88,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Pond Heron",
+    "scientificName": "Ardeola grayii",
+    "imageUrl": "https://owendeutsch.com/wp-content/uploads/2021/03/Indian-Pond-Heron-18RSC-denoise-denoise.jpg",
+    "category": "Birds",
+    "popularity": 87,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Jungle Babbler",
+    "scientificName": "Argya striata",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/126366631/1800",
+    "category": "Birds",
+    "popularity": 86,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Brahminy Kite",
+    "scientificName": "Haliastur indus",
+    "imageUrl": "https://singaporebirds.com/wp-content/uploads/2016/01/brahminy-kite-fy1x7492-111eos1d-131124.jpg",
+    "category": "Birds",
+    "popularity": 85,
+    "regions": ["TROPICAL", "WILDLIFE", "RIVERS AND LAKES", "PROTECTED"]
+  },
+  {
+    "name": "Asian Koel",
+    "scientificName": "Eudynamys scolopaceus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/126392861/1800",
+    "category": "Birds",
+    "popularity": 84,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Green Bee-eater",
+    "scientificName": "Merops orientalis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.E10U03ThUJTHt75Nq1wKkAHaE7?w=2000&h=1333&rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 83,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Purple Sunbird",
+    "scientificName": "Cinnyris asiaticus",
+    "imageUrl": "https://wildlifevagabond.com/wp-content/uploads/2024/04/MG_8351-Edit-3-5.jpg",
+    "category": "Birds",
+    "popularity": 82,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Greater Coucal",
+    "scientificName": "Centropus sinensis",
+    "imageUrl": "https://www.passaro.org/wp-content/uploads/2023/02/habitat-do-greater-coucal.jpg",
+    "category": "Birds",
+    "popularity": 81,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Cuckoo",
+    "scientificName": "Cuculus micropterus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/142711441/1800",
+    "category": "Birds",
+    "popularity": 80,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Oriental Magpie-Robin",
+    "scientificName": "Copsychus saularis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.IGja6gbkOKq7yCxOV9K-yQHaEO?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 79,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Laughing Dove",
+    "scientificName": "Spilopelia senegalensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.yqi9jqSNwS3iMxGnBmIpkgAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 78,
+    "regions": ["TROPICAL", "ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Spotted Dove",
+    "scientificName": "Spilopelia chinensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.2gXuk1fKHK607Ue8vJBSUwHaHa?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 77,
+    "regions": ["TROPICAL", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Rock Pigeon",
+    "scientificName": "Columba livia",
+    "imageUrl": "https://th.bing.com/th/id/OIP.IsbL8UkvBhLRgt7HI6K2FQHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 76,
+    "regions": ["TEMPERATE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Paradise Flycatcher",
+    "scientificName": "Terpsiphone paradisi",
+    "imageUrl": "https://th.bing.com/th/id/OIP.iJLwHanWkpuMXQIoxz9USAAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 75,
+    "regions": ["TROPICAL", "MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Grey Hornbill",
+    "scientificName": "Ocyceros birostris",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133738511/1800",
+    "category": "Birds",
+    "popularity": 74,
+    "regions": ["TROPICAL", "SAVANNAH"]
+  },
+  {
+    "name": "Eurasian Collared Dove",
+    "scientificName": "Streptopelia decaocto",
+    "imageUrl": "https://th.bing.com/th/id/OIP.K-b3vwNad79A5ohPXUfwGwHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 73,
+    "regions": ["TEMPERATE", "ARID"]
+  },
+  {
+    "name": "Common Tailorbird",
+    "scientificName": "Orthotomus sutorius",
+    "imageUrl": "https://cdn.britannica.com/66/131066-050-0C58CB37/Common-tailorbird.jpg",
+    "category": "Birds",
+    "popularity": 72,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "White-breasted Waterhen",
+    "scientificName": "Amaurornis phoenicurus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.mHwQMJZVTVddxQO4MCA-RAHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 71
+  },
+  {
+    "name": "Indian Scops Owl",
+    "scientificName": "Otus bakkamoena",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/145755261/1200",
+    "category": "Birds",
+    "popularity": 70,
+    "regions": ["MOUNTAIN", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "imageUrl": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:3320a3be-b8e0-4838-97c1-5dc37dbfc6c0/379547776-Species-Barn-Owl-tilting-head-at-camera.jpg",
+    "category": "Birds",
+    "popularity": 69,
+    "regions": ["ARID", "TEMPERATE", "PROTECTED"]
+  },
+  {
+    "name": "Shikra",
+    "scientificName": "Accipiter badius",
+    "imageUrl": "https://th.bing.com/th/id/OIP.MHWMWBe2ugQ0IdprgDw1QQAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 68,
+    "regions": ["TROPICAL", "WILDLIFE", "MOUNTAIN"]
+  },
+  {
+    "name": "Little Egret",
+    "scientificName": "Egretta garzetta",
+    "imageUrl": "https://th.bing.com/th/id/OIP.-VXOiXGqhFgT5epk-akipAHaE1?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 67,
+    "regions": ["RIVERS AND LAKES", "WILDLIFE", "TEMPERATE"]
+  },
+  {
+    "name": "Intermediate Egret",
+    "scientificName": "Ardea intermedia",
+    "imageUrl": "https://th.bing.com/th/id/OIP.CYKLNjRgNjmy9SAiVxnzfgHaFs?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 66,
+    "regions": ["RIVERS AND LAKES", "WILDLIFE", "TROPICAL"]
+  },
+  {
+    "name": "Cattle Egret",
+    "scientificName": "Bubulcus ibis",
+    "imageUrl": "https://base-prod.rspb-prod.magnolia-platform.com/dam/jcr:de466a3a-f131-4361-86d7-930af6f0194e/42961963-Species-Cattle-Egret-on-branch-with-wings-open-in-SUMMER-plumage.jpg",
+    "category": "Birds",
+    "popularity": 65,
+    "regions": ["SAVANNAH", "WILDLIFE", "TROPICAL"]
+  },
+  {
+    "name": "Black-crowned Night Heron",
+    "scientificName": "Nycticorax nycticorax",
+    "imageUrl": "https://optimise2.assets-servd.host/steadfast-tern/production/black-crowned-night-heron.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1617723537&s=96203395148a47bd34ea5b18015e93e7",
+    "category": "Birds",
+    "popularity": 63,
+    "regions": ["RIVERS AND LAKES", "TEMPERATE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Spot-billed Duck",
+    "scientificName": "Anas poecilorhyncha",
+    "imageUrl": "https://th.bing.com/th/id/OIP.pgock8OjFFd1SE5ODENHegHaFA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 62,
+    "regions": ["RIVERS AND LAKES", "WILDLIFE", "TEMPERATE"]
+  },
+  {
+    "name": "Common Teal",
+    "scientificName": "Anas crecca",
+    "imageUrl": "https://live.staticflickr.com/8526/8602525826_19c0205209_b.jpg",
+    "category": "Birds",
+    "popularity": 61,
+    "regions": ["RIVERS AND LAKES", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Northern Pintail",
+    "scientificName": "Anas acuta",
+    "imageUrl": "https://myedmondsnews.com/wp-content/uploads/2018/01/BB-NOPI-2.jpeg",
+    "category": "Birds",
+    "popularity": 60,
+    "regions": ["RIVERS AND LAKES", "TEMPERATE", "PROTECTED"]
+  },
+  {
+    "name": "Grey Francolin",
+    "scientificName": "Francolinus pondicerianus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Uj0Suw9fB77fNPAvhfb00wHaFs?w=1000&h=768&rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 59,
+    "regions": ["ARID", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Painted Francolin",
+    "scientificName": "Francolinus pictus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/126394691/1200",
+    "category": "Birds",
+    "popularity": 58,
+    "regions": ["TROPICAL", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Jungle Bush Quail",
+    "scientificName": "Perdicula asiatica",
+    "imageUrl": "https://birdwatcher.delhigreens.com/wp-content/uploads/2020/06/Jungle-Bush-Quail.jpg",
+    "category": "Birds",
+    "popularity": 57,
+    "regions": ["TROPICAL", "WILDLIFE", "MOUNTAIN"]
+  },
+  {
+    "name": "Rain Quail",
+    "scientificName": "Coturnix coromandelica",
+    "imageUrl": "https://birdwatcher.delhigreens.com/wp-content/uploads/2020/06/Rain-Quail.jpg",
+    "category": "Birds",
+    "popularity": 56,
+    "regions": ["TROPICAL", "WILDLIFE", "SAVANNAH"]
+  },
+  {
+    "name": "Red Junglefowl",
+    "scientificName": "Gallus gallus",
+    "imageUrl": "https://www.thespruce.com/thmb/fIoS24FK8bCbYLfULCbNoOo4Pyg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/red-junglefowl-3c4a50fe47f54dfbb0ef9e10932f9101.jpg",
+    "category": "Birds",
+    "popularity": 75,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Grey Junglefowl",
+    "scientificName": "Gallus sonneratii",
+    "imageUrl": "https://th.bing.com/th/id/R.e5c373e68501db405912c730effca3de?rik=y08UHlHh4czGFA&riu=http%3a%2f%2fgamebirdfowl.com%2fwp-content%2fuploads%2f2019%2f02%2fGrey-Jungle-Fowl-1600x1067.jpg&ehk=qSbuNRQUsmhUNPZjx6916c5ak2SYDAdfUvpja3gp2YY%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Birds",
+    "popularity": 70,
+    "regions": ["TROPICAL", "MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Barred Buttonquail",
+    "scientificName": "Turnix suscitator",
+    "imageUrl": "https://www.zoochat.com/community/media/barred-buttonquail-turnix-suscitator.566976/full?d=1643985151",
+    "category": "Birds",
+    "popularity": 55,
+    "regions": ["TROPICAL", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Courser",
+    "scientificName": "Cursorius coromandelicus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.BwSluzlg5ttTHfBLuuwTQAAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 54,
+    "regions": ["ARID", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Yellow-wattled Lapwing",
+    "scientificName": "Vanellus malabaricus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.0piZn3GVuzHVBIjHkn5QVwHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 60,
+    "regions": ["ARID", "SAVANNAH", "PROTECTED"]
+  },
+  {
+    "name": "Red-wattled Lapwing",
+    "scientificName": "Vanellus indicus",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/full/1.25x1/1292px-red-wattled-lapwing-10jpg.webp?id=c134adb9f5a70eaa56f497be23f8e6e2",
+    "category": "Birds",
+    "popularity": 67,
+    "regions": ["ARID", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "River Tern",
+    "scientificName": "Sterna aurantia",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133933971/1800",
+    "category": "Birds",
+    "popularity": 66,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "PROTECTED"]
+  },
+  {
+    "name": "Little Tern",
+    "scientificName": "Sternula albifrons",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/55029811/1800",
+    "category": "Birds",
+    "popularity": 65,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Skimmer",
+    "scientificName": "Rynchops albicollis",
+    "imageUrl": "https://i.pinimg.com/originals/9d/82/35/9d823574a57e832a22f5a19ef89f1fea.jpg",
+    "category": "Birds",
+    "popularity": 70,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Black-bellied Tern",
+    "scientificName": "Sterna acuticauda",
+    "imageUrl": "https://th.bing.com/th/id/OIP.p8lanMr0AvWHTt6Qlv9zIQHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 60,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "ENDANGERED"]
+  },
+  {
+    "name": "Great Stone-curlew",
+    "scientificName": "Esacus recurvirostris",
+    "imageUrl": "https://th.bing.com/th/id/OIP.gPsq62ZABIycigkc-7gzYgHaGq?w=900&h=810&rs=1&pid=ImgDetMainy",
+    "category": "Birds",
+    "popularity": 58,
+    "region": ["TROPICAL", "WILDLIFE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Eurasian Thick-knee",
+    "scientificName": "Burhinus oedicnemus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.JXxU26d09EPaM7ECT_tp9QHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 57,
+    "region": ["TEMPERATE", "ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Thick-knee",
+    "scientificName": "Burhinus indicus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/142953851/1800",
+    "category": "Birds",
+    "popularity": 59,
+    "region": ["TROPICAL", "ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Bronze-winged Jacana",
+    "scientificName": "Metopidius indicus",
+    "imageUrl": "https://th.bing.com/th/id/R.22b23d6c54eb4592da7b3c309b657b54?rik=XoxPMpQQbyA0Uw&riu=http%3a%2f%2fwww.thainationalparks.com%2fimg%2fspecies%2f2020%2f08%2f18%2f396046%2fbronze-winged-jacana-w-1500.jpg&ehk=KqFGVUu5qrkueEZYYBUgdVm5e3dE910HbL0qWv4xeKg%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Birds",
+    "popularity": 61,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Pheasant-tailed Jacana",
+    "scientificName": "Hydrophasianus chirurgus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ehcqZEH-qPS0P2pudmiIAQHaE8?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 62,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Purple Swamphen",
+    "scientificName": "Porphyrio poliocephalus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.AiqbGCj1j4b7bk-UTA-iswHaHa?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 64,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  
+  {
+    "name": "White-breasted Waterhen",
+    "scientificName": "Amaurornis phoenicurus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.mHwQMJZVTVddxQO4MCA-RAHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 63,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Common Moorhen",
+    "scientificName": "Gallinula chloropus",
+    "imageUrl": "https://glenlivet-wildlife.co.uk/wp-content/uploads/2021/07/Brown-water-bird-with-yellow-and-red-bill-Common-Moorhen.jpg",
+    "category": "Birds",
+    "popularity": 65,
+    "region": ["TEMPERATE", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Eurasian Coot",
+    "scientificName": "Fulica atra",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44601571/1800",
+    "category": "Birds",
+    "popularity": 66,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Spot-billed Pelican",
+    "scientificName": "Pelecanus philippensis",
+    "imageUrl": "https://static.thainationalparks.com/img/species/wiki/2013/07/09/6230/spot-billed-pelican-w-1500.jpg",
+    "category": "Birds",
+    "popularity": 75,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "PROTECTED", "ENDANGERED"]
+  },
+  {
+    "name": "Great White Pelican",
+    "scientificName": "Pelecanus onocrotalus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.kgF-206YUnHYIxxlV3RaywHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 73,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Cormorant",
+    "scientificName": "Phalacrocorax fuscicollis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.psG52YKrhY0WAPwqb0rE0wAAAA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 68,
+    "region": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Little Cormorant",
+    "scientificName": "Microcarbo niger",
+    "imageUrl": "https://img.freepik.com/free-photo/little-cormorant-javanese-cormorant-microcarbo-niger_42088-4154.jpg?size=626&ext=jpg",
+    "category": "Birds",
+    "popularity": 69,
+    "region": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Bar-headed Goose",
+    "scientificName": "Anser indicus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/241966011/1800",
+    "category": "Birds",
+    "popularity": 79,
+    "region": ["MOUNTAIN", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Greylag Goose",
+    "scientificName": "Anser anser",
+    "imageUrl": "https://www.waterfowl.org.uk/wp-content/uploads/2020/10/Greylag-DTom-1536x1091.jpeg",
+    "category": "Birds",
+    "popularity": 76,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Ruddy Shelduck",
+    "scientificName": "Tadorna ferruginea",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ump4Dgyo3hhcrQLNak0rHQHaFA?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 78,
+    "region": ["RIVERS AND LAKES", "ARID"]
+  },
+  {
+    "name": "Common Shelduck",
+    "scientificName": "Tadorna tadorna",
+    "imageUrl": "https://static.thainationalparks.com/img/species/2020/08/17/395810/common-shelduck-w-1500.jpg",
+    "category": "Birds",
+    "popularity": 74,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Garganey",
+    "scientificName": "Spatula querquedula",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/241983671/1800",
+    "category": "Birds",
+    "popularity": 73,
+    "region": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Northern Shoveler",
+    "scientificName": "Spatula clypeata",
+    "imageUrl": "https://cdn.britannica.com/68/199568-050-A814788B/shoveler-dabbling-duck-habitat-much-Northern-Hemisphere.jpg",
+    "category": "Birds",
+    "popularity": 75,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Eurasian Wigeon",
+    "scientificName": "Mareca penelope",
+    "imageUrl": "https://th.bing.com/th/id/OIP.1WJyj0qWM4TSUqFjDRUqtwHaEK?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 74,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Spot-billed Duck",
+    "scientificName": "Anas poecilorhyncha",
+    "imageUrl": "https://th.bing.com/th/id/OIP.WBySgBSHPWvuhCbTPDz2TgHaE8?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 80,
+    "region": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Tufted Duck",
+    "scientificName": "Aythya fuligula",
+    "imageUrl": "https://th.bing.com/th/id/OIP.vLIEy9YVZ4CQc06e8IcvpQHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 72,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Common Pochard",
+    "scientificName": "Aythya ferina",
+    "imageUrl": "https://www.waterfowl.org.uk/wp-content/uploads/2021/05/Common-Pochard-drake-Pinola.jpg",
+    "category": "Birds",
+    "popularity": 73,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Ferruginous Duck",
+    "scientificName": "Aythya nyroca",
+    "imageUrl": "https://www.waterfowl.org.uk/wp-content/uploads/2021/04/Ferruginous-Duck-Pinola.jpg",
+    "category": "Birds",
+    "popularity": 74,
+    "region": ["PROTECTED", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Cotton Pygmy Goose",
+    "scientificName": "Nettapus coromandelianus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/122128621/1800",
+    "category": "Birds",
+    "popularity": 78,
+    "region": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Comb Duck",
+    "scientificName": "Sarkidiornis melanotos",
+    "imageUrl": "https://www.peruaves.org/wp-content/uploads/2019/01/comb_duck-1.jpg",
+    "category": "Birds",
+    "popularity": 75,
+    "region": ["WILDLIFE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Knob-billed Duck",
+    "scientificName": "Sarkidiornis melanotos melanotos",
+    "imageUrl": "https://th.bing.com/th/id/OIP.G8BTfV3J_Mihb4er_1JLcwHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 76,
+    "region": ["WILDLIFE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "White-winged Duck",
+    "scientificName": "Asarcornis scutulata",
+    "imageUrl": "https://i.pinimg.com/originals/29/59/93/2959939753f51cdd99ca8d2b3ae28ba5.jpg",
+    "category": "Birds",
+    "popularity": 82,
+    "region": ["ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Mandarin Duck",
+    "scientificName": "Aix galericulata",
+    "imageUrl": "https://th.bing.com/th/id/OIP.bmEoX8fvDIirk5K4aXPGfQHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 84,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Baikal Teal",
+    "scientificName": "Sibirionetta formosa",
+    "imageUrl": "https://hawaiibirdguide.com/wp-content/uploads/2023/01/baikal-teal-standing.jpg",
+    "category": "Birds",
+    "popularity": 79,
+    "region": ["POLAR", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Greater Scaup",
+    "scientificName": "Aythya marila",
+    "imageUrl": "https://th.bing.com/th/id/OIP.aUkppkGLzqWGvzc4LEiigAHaFj?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 71,
+    "region": ["POLAR", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Red-crested Pochard",
+    "scientificName": "Netta rufina",
+    "imageUrl": "https://images.birdfact.com/production/red-crested-pochard_2023-06-27-145811_jhoc.jpg?w=1200&h=900&q=80&auto=format&fit=crop&crop=focalpoint&fp-x=0.5267&fp-y=0.4339&dm=1687879211&s=16d40ac6ef9ea2f58289c773829fc4e8",
+    "category": "Birds",
+    "popularity": 77,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Pink-headed Duck",
+    "scientificName": "Rhodonessa caryophyllacea",
+    "imageUrl": "https://www.globalwildlife.org/wp-content/uploads/2019/07/Pink-headed-duck_Philip-Nelson_small-1.jpg",
+    "category": "Birds",
+    "popularity": 85,
+    "region": ["ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Black-headed Ibis",
+    "scientificName": "Threskiornis melanocephalus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.tO-d5RQwUvTM4kpesT4WPwHaE7?rs=1&pid=ImgDetMain",
+    "category": "Birds",
+    "popularity": 73,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Glossy Ibis",
+    "scientificName": "Plegadis falcinellus",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/308505311/1800",
+    "category": "Birds",
+    "popularity": 72,
+    "region": ["TEMPERATE", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Eurasian Spoonbill",
+    "scientificName": "Platalea leucorodia",
+    "imageUrl": "https://www.birdguides-cdn.com/cdn/articles/4-Eurasian-Spoonbill-adult-1BB-20042016---Hyres---Aurelien-Audevard.jpg",
+    "category": "Birds",
+    "popularity": 75,
+    "region": ["TEMPERATE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Greater Flamingo",
+    "scientificName": "Phoenicopterus roseus",
+    "imageUrl": "https://namesery.com/wp-content/uploads/flamingo-name-generator.png",
+    "category": "Birds",
+    "popularity": 85,
+    "region": ["SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Lesser Flamingo",
+    "scientificName": "Phoeniconaias minor",
+    "imageUrl": "https://th.bing.com/th/id/R.2a9e8bd50756c0c26bca493ed515d63c?rik=Z0MdP63%2bxVRKdA&riu=http%3a%2f%2fwww.arthurgrosset.com%2fafricabirds%2fphotos%2fphomin45757.jpg&ehk=1lre8chYlr5FfMjbR34zSl88Chu94KulGHVdW9ol31U%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Birds",
+    "popularity": 83,
+    "region": ["SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Little Egret",
+    "scientificName": "Egretta garzetta",
+    "imageUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/208475781/1800",
+    "category": "Birds",
+    "popularity": 81,
+    "region": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  }
+
+  ]
+}

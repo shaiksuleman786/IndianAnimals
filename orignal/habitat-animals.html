@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Animals by Habitat</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+    .hero {
+      height: 50vh;
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      margin: 0;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
+      text-transform: uppercase;
+    }
+
+    .container {
+      padding: 20px;
+      background: #4eaf4e77;
+      color: #333;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      min-height: 50vh;
+    }
+
+    .card {
+      width: 250px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      border-radius: 12px;
+      overflow: hidden;
+      background-color: #f9f9f9;
+      color: #333;
+      text-align: center;
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      object-position: top;
+    }
+
+    .card h3 {
+      margin: 10px 0 5px;
+    }
+
+    .card p {
+      margin: 0 0 10px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<div class="hero" id="heroSection">
+  <h1 id="heading">Loading...</h1>
+</div>
+
+<div class="container" id="animalList"></div>
+
+<script>
+  // Background images for regions (keys uppercase to match JSON)
+  const regionBackgrounds = {
+    TROPICAL: "https://cdn.quotesgram.com/img/50/86/355679640-Tropical_Rainforest_Lacey_Creek_Queensland_Australia.jpg",
+    POLAR: "https://c4.wallpaperflare.com/wallpaper/496/235/602/nature-winter-norway-wallpaper-preview.jpg",
+    ARID: "https://userscontent2.emaze.com/images/5ba7b3c4-a581-45ce-b0ee-51dae87ac52a/4849467f-23d3-4c92-a737-79c13521153c.png",
+    TEMPERATE: "https://biologydictionary.net/wp-content/uploads/2017/11/Blue-Ridge-Parkway.jpg",
+    SAVANNAH: "https://img.freepik.com/premium-photo/sunrise-silhouette-african-savannah-wildlife_1179130-39061.jpg",
+    "RIVERS AND LAKES": "https://wallup.net/wp-content/uploads/2019/10/300868-water-nature-animals-swans-swimming-rivers-reflections.jpg",
+    WILDLIFE: "https://www.explorationsafrica.com/v2/wp-content/uploads/Eles-At-Sunset.jpg",
+    MOUNTAIN: "https://th.bing.com/th/id/R.5fd0cc802ac55830ddc36c7eb5dfcbac?rik=W7PD3MOBvp9ebQ&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2fhimalayas-mountains-landscape-4k-f3.jpg&ehk=l2aE06Cs4xdXT3IXaO8tU98yAShZ9BnnTq%2fcqwJOndU%3d&risl=1&pid=ImgRaw&r=0",
+    ENDANGERED: "https://i.ytimg.com/vi/tewty2TtHIg/maxresdefault.jpg",
+    PROTECTED: "https://www.worldanimalprotection.org/cdn-cgi/image/width=3840/globalassets/images/hero-images/general-page-hero/1016083.jpg"
+  };
+
+  // Background color for container by region
+  const regionColors = {
+    TROPICAL: "#d6f5d6",
+    POLAR: "#e6f7ff",
+    ARID: "#fff5cc",
+    TEMPERATE: "#f0f0f5",
+    SAVANNAH: "#fff0b3",
+    "RIVERS AND LAKES": "#e0f7fa",
+    WILDLIFE: "#f9fbe7",
+    MOUNTAIN: "#e8f5e9",
+    ENDANGERED: "#ffebee",
+    PROTECTED: "#e1bee7"
+  };
+
+  // Normalize region aliases from URL param to JSON keys
+  const aliasMap = {
+    mountains: "MOUNTAIN",
+    "rivers and lakes": "RIVERS AND LAKES",
+    "rivers & lakes": "RIVERS AND LAKES"
+  };
+
+  function getRegionTypeAndValue() {
+    const params = new URLSearchParams(window.location.search);
+    let value = params.get("habitat") || params.get("region");
+    if (!value) return { type: null, value: null };
+
+    value = value.toLowerCase().trim();
+    return { type: "region", value: aliasMap[value] || value.toUpperCase() };
+  }
+
+  async function loadAnimalsByRegion() {
+    const { value } = getRegionTypeAndValue();
+    const heading = document.getElementById("heading");
+    const heroSection = document.getElementById("heroSection");
+    const animalList = document.getElementById("animalList");
+
+    if (!value) {
+      heading.innerText = "Region not specified!";
+      return;
+    }
+
+    heading.innerText = `${value} ANIMALS`;
+    heroSection.style.backgroundImage = `url('${regionBackgrounds[value] || ""}')`;
+    animalList.style.backgroundColor = regionColors[value] || "white";
+
+    // Your JSON files here - adjust paths as needed
+    const jsonFiles = ["indian_birds_100.json", "indian_fish_100.json","animal_data.json","indian_amphibians_100.json","indian_insects_100.json"];
+
+    try {
+      const allAnimals = [];
+
+      for (const file of jsonFiles) {
+        const response = await fetch(file);
+
+        if (!response.ok) {
+          console.warn(`Failed to load ${file}: Status ${response.status}`);
+          continue;
+        }
+
+        const data = await response.json();
+
+        if (Array.isArray(data)) {
+          allAnimals.push(...data);
+        } else if (data.animals && Array.isArray(data.animals)) {
+          allAnimals.push(...data.animals);
+        } else {
+          console.warn(`Unexpected data format in ${file}`);
+        }
+      }
+
+      // Filter animals whose regions array includes the selected value
+      const filtered = allAnimals.filter(animal => {
+        if (!animal.regions || !Array.isArray(animal.regions)) return false;
+        return animal.regions.some(r => r.toUpperCase() === value);
+      });
+
+      if (filtered.length === 0) {
+        heading.innerText = `No animals found in ${value}`;
+        animalList.innerHTML = "";
+        return;
+      }
+
+      animalList.innerHTML = "";
+
+      filtered.forEach(animal => {
+        const imageUrl = animal.imageUrl || "https://via.placeholder.com/250x180?text=No+Image";
+        const name = animal.name || "Unknown Name";
+        const scientificName = animal.scientificName || "";
+
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `
+          <img src="${imageUrl}" alt="${name}">
+          <h3>${name}</h3>
+          <p>${scientificName}</p>
+        `;
+        animalList.appendChild(card);
+      });
+
+    } catch (error) {
+      heading.innerText = "Error loading animal data.";
+      console.error("Error:", error);
+    }
+  }
+
+  loadAnimalsByRegion();
+</script>
+
+</body>
+</html>

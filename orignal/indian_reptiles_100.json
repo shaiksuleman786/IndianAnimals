@@ -1,0 +1,270 @@
+{
+  "animals": [
+  {
+    "name": "Indian Cobra",
+    "scientificName": "Naja naja",
+    "imageUrl": "https://1.bp.blogspot.com/-L9vnGXVK2t8/XKjLzfWWM4I/AAAAAAAAtk0/I1OAuuR4reE3pq6wRqoumJ37IFf3_IEtgCEwYBhgL/s1600/30%2Bcobra.jpg",
+    "category": "Reptiles",
+    "popularity": 91
+  },
+  {
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "imageUrl": "https://www.thoughtco.com/thmb/sPQxPVG3uyWsonO29JedboxzPMI=/3500x2606/filters:fill(auto,1)/GettyImages-1081539198-da2463161bca4538a0dd0028dbaedebc.jpg",
+    "category": "Reptiles",
+    "popularity": 95
+  },
+  {
+    "name": "Indian Rock Python",
+    "scientificName": "Python molurus",
+    "imageUrl": "https://th.bing.com/th/id/R.f756129f6c981adbc5015b65fa6c4b7f?rik=gfAySezREfzIsw&riu=http%3a%2f%2frahulalvares.com%2fwp-content%2fuploads%2f2014%2f02%2f6O4A4956.jpg&ehk=DAcuepyflmymXGIYlJ5w5%2fn%2f%2b%2fX3iR4%2bulnA0hm%2f4zo%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Reptiles",
+    "popularity": 89
+  },
+  {
+    "name": "Indian Monitor Lizard",
+    "scientificName": "Varanus bengalensis",
+    "imageUrl": "https://t3.ftcdn.net/jpg/00/97/55/02/360_F_97550227_wXBaYsfHdA4vqACuxyKV3lTHOSZJCDPy.jpg",
+    "category": "Reptiles",
+    "popularity": 84
+  },
+  {
+    "name": "Mugger Crocodile",
+    "scientificName": "Crocodylus palustris",
+    "imageUrl": "https://th.bing.com/th/id/OIP.DVpe_Pj2hMU6TWTLUteKcQHaE7?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 88
+  },
+  {
+    "name": "Gharial",
+    "scientificName": "Gavialis gangeticus",
+    "imageUrl": "https://th.bing.com/th/id/R.be9ffb1d18ffc26291671d3cef925ca8?rik=XlBchQ9J787zSg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-_YpS8qsb5rw%2fT7xvLx6kqAI%2fAAAAAAAAGEo%2fdIl5m8DL70s%2fs1600%2fgharial.jpg&ehk=5WFknXRiALIV2d6eZdVN3iE94kM%2f0bvq%2bjtVMU7qKGo%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Reptiles",
+    "popularity": 92
+  },
+  {
+    "name": "Indian Star Tortoise",
+    "scientificName": "Geochelone elegans",
+    "imageUrl": "https://res.cloudinary.com/dr0zfbman/images/f_auto,q_auto:good/v1716358580/WordPress%20Content/Indian-Star-Tortoise-in-Polonnaruwa_Jon-Gudorf-Photography/Indian-Star-Tortoise-in-Polonnaruwa_Jon-Gudorf-Photography.jpg?_i=AA",
+    "category": "Reptiles",
+    "popularity": 87
+  },
+  {
+    "name": "Indian Flapshell Turtle",
+    "scientificName": "Lissemys punctata",
+    "imageUrl": "https://live.staticflickr.com/8144/7461971598_5cf5e66fc8_b.jpg",
+    "category": "Reptiles",
+    "popularity": 80
+  },
+  {
+    "name": "Green Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "imageUrl": "https://th.bing.com/th/id/R.341ce257d70d0776e5a20e288e1d533e?rik=b%2bSttsqmPCNjfA&riu=http%3a%2f%2fipfactly.com%2fwp-content%2fuploads%2f2013%2f07%2fGreen-vine-snake-Yasuni.jpg&ehk=r8ONKkNrs6qLUILE4EzFn5VYf18bKKUyI6XOtPRNuNg%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "category": "Reptiles",
+    "popularity": 76
+  },
+  {
+    "name": "Common Krait",
+    "scientificName": "Bungarus caeruleus",
+    "imageUrl": "https://www.learnaboutnature.com/wp-content/uploads/Common-Krait-1-1024x895.jpg",
+    "category": "Reptiles",
+    "popularity": 90
+  },
+  {
+    "name": "Russell's Viper",
+    "scientificName": "Daboia russelii",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ONxQZThS08iKsjIz3HF6TgHaE8?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 89
+  },
+  {
+    "name": "Saw-scaled Viper",
+    "scientificName": "Echis carinatus",
+    "imageUrl": "https://a-z-animals.com/media/2022/07/echis-carinatus-saw-scaled-Shutterstock_1525636619.jpg",
+    "category": "Reptiles",
+    "popularity": 85
+  },
+  {
+    "name": "Brahminy Blind Snake",
+    "scientificName": "Indotyphlops braminus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.gFG1l1ypNSh2YWuiRmm5WQHaE8?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 72
+  },
+  {
+    "name": "Indian Chameleon",
+    "scientificName": "Chamaeleo zeylanicus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.1EHoaiPB3MkY9_yHJ-qdswHaE7?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 81
+  },
+  {
+    "name": "Checkered Keelback",
+    "scientificName": "Xenochrophis piscator",
+    "imageUrl": "https://th.bing.com/th/id/OIP.b-6C1-howHWCYKrpKvOjiQHaFR?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 74
+  },
+  {
+    "name": "Indian Roofed Turtle",
+    "scientificName": "Pangshura tecta",
+    "imageUrl": "https://64.media.tumblr.com/e3731849b6aa6167f6cfe3ddaff6e28e/1b783002d3feefbc-77/s1280x1920/119aebce0532ab5047f15582e73a1698bd72cfe6.jpg",
+    "category": "Reptiles",
+    "popularity": 78
+  },
+  {
+    "name": "Indian Softshell Turtle",
+    "scientificName": "Nilssonia gangetica",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ptWL-rBw1V6VaymQ_BivagAAAA?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 79
+  },
+  {
+    "name": "Olive Keelback",
+    "scientificName": "Atretium schistosum",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/full/1.25x1/2560px-olive-keelback-tadoba-np.webp?id=abdfc4b467b344f67f4ea2f8dfc829ae",
+    "category": "Reptiles",
+    "popularity": 70
+  },
+  {
+    "name": "Common Sand Boa",
+    "scientificName": "Eryx conicus",
+    "imageUrl": "https://www.researchgate.net/profile/Deb-Pandey/publication/235758972/figure/fig9/AS:669575146385419@1536650563543/Common-Sand-Boa-Gongylophis-conicus-U-Kuch.png",
+    "category": "Reptiles",
+    "popularity": 75
+  },
+  {
+    "name": "Common Indian Monitor",
+    "scientificName": "Varanus bengalensis",
+    "imageUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/common-indian-monitor-lizard-kedar-bhide.jpg",
+    "category": "Reptiles",
+    "popularity": 83
+  },
+  {
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ftZIlDk0sKcaJtYwthFxggHaEc?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 86
+  },
+  {
+    "name": "Travancore Wolf Snake",
+    "scientificName": "Lycodon travancoricus",
+    "imageUrl": "https://th.bing.com/th/id/R.999a4b149b79b9479eb83bfca7cc0c61?rik=Z4JIBeS8XknhVg&riu=http%3a%2f%2fwww.reptilefact.com%2fwp-content%2fuploads%2f2017%2f04%2fTravancore-Wolf-Snake-Photos.jpg&ehk=%2bFW43YhtmaUV74ZeVQjcR%2b%2bPZS80H%2b%2bjRqHGQlh3eiI%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "category": "Reptiles",
+    "popularity": 73
+  },
+  {
+    "name": "Common Bronzeback Tree Snake",
+    "scientificName": "Dendrelaphis tristis",
+    "imageUrl": "https://static.inaturalist.org/photos/91908607/large.jpg",
+    "category": "Reptiles",
+    "popularity": 76
+  },
+  {
+    "name": "Indian Flying Lizard",
+    "scientificName": "Draco dussumieri",
+    "imageUrl": "https://i0.wp.com/greenverz.com/wp-content/uploads/2023/05/Greenverz_Indian_flying_lizard_001.png?w=585&ssl=1",
+    "category": "Reptiles",
+    "popularity": 79
+  },
+  {
+    "name": "Indian Skink",
+    "scientificName": "Eutropis carinata",
+    "imageUrl": "https://www.drishtiias.com/images/uploads/1603092421_image2.jpg",
+    "category": "Reptiles",
+    "popularity": 71
+  },
+  {
+    "name": "Banded Racer",
+    "scientificName": "Argyrogena fasciolata",
+    "imageUrl": "https://th.bing.com/th/id/OIP.BfNHaV_pjCgWrBx4ShU_wQHaFS?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 74
+  },
+  {
+    "name": "Indian Fringe-Fingered Lizard",
+    "scientificName": "Acanthodactylus cantoris",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/full/1.25x1/iftlizard-dsc0789.webp?id=12e39a6d05973d2ddd8b548702420bdf",
+    "category": "Reptiles",
+    "popularity": 68
+  },
+  {
+    "name": "Yellow Monitor Lizard",
+    "scientificName": "Varanus flavescens",
+    "imageUrl": "https://www.reptilefact.com/wp-content/uploads/2017/04/Yellow-Monitor-Images.jpg",
+    "category": "Reptiles",
+    "popularity": 80
+  },
+  {
+    "name": "Keeled Indian Mabuya",
+    "scientificName": "Eutropis macularia",
+    "imageUrl": "https://i.pinimg.com/originals/12/1a/14/121a144283a5151d6344222bfcc5e5b9.jpg",
+    "category": "Reptiles",
+    "popularity": 69
+  },
+  {
+    "name": "Indian Rock Agama",
+    "scientificName": "Psammophilus dorsalis",
+    "imageUrl": "https://th.bing.com/th/id/R.7bd078f6240e636ad6d08b18f97f388c?rik=BQHJuIhIrMGf8g&riu=http%3a%2f%2f2.bp.blogspot.com%2f-rrgRoi3SU0M%2fUcEKIGrE-kI%2fAAAAAAAAJAU%2fuxiI2lup6QU%2fs1600%2fpsammophilus_dorsalis_male_yellow.jpg&ehk=hfo65ry3Gf9gvEKb6Y%2bDNE5Vu9bswpyW%2f2AFYslCnJ8%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Reptiles",
+    "popularity": 77
+  },
+  {
+    "name": "Indian Rat Snake",
+    "scientificName": "Ptyas mucosa",
+    "imageUrl": "https://th.bing.com/th/id/R.baafaa9dfe75325d6f31bf608566bcea?rik=m7C7sYE1vTrE%2bQ&riu=http%3a%2f%2fwww.indiansnakes.org%2fsites%2fdefault%2ffiles%2fstyles%2flarge%2fpublic%2fsnakes%2fimage%2fRat+Snake+(1+of+1)-8.jpg%3fitok%3d1tpxyz33&ehk=4YQbpdb83HfH3EnwfJLEQ1WLb1rLMz3lR6E%2fyOj%2bkVI%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Reptiles",
+    "popularity": 87
+  },
+  {
+    "name": "Indian Egg-eating Snake",
+    "scientificName": "Elachistodon westermanni",
+    "imageUrl": "https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Indian_egg_eater_snake_Elachistodon_westermanni_by_Krishna_Khan_Amravati.jpg/640px-Indian_egg_eater_snake_Elachistodon_westermanni_by_Krishna_Khan_Amravati.jpg&w=640&q=50",
+    "category": "Reptiles",
+    "popularity": 73
+  },
+  {
+    "name": "Common Indian Toad-headed Agama",
+    "scientificName": "Phrynocephalus mystaceus",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/08/00/01/00/1000_F_800010023_4Z7YotTztnofKN59VNJwngBV1VbOU049.jpg",
+    "category": "Reptiles",
+    "popularity": 69
+  },
+  {
+    "name": "Beddome’s Keelback",
+    "scientificName": "Hebius beddomei",
+    "imageUrl": "https://i.pinimg.com/originals/bb/52/2b/bb522b99ef316c4f2ec8869c4e37a329.jpg",
+    "category": "Reptiles",
+    "popularity": 67
+  },
+  {
+    "name": "Indian Black Turtle",
+    "scientificName": "Melanochelys trijuga",
+    "imageUrl": "https://th.bing.com/th/id/OIP.M9v92-mkGs7xXQMWfqiOiQHaFj?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 75
+  },
+  {
+    "name": "Indian Tent Turtle",
+    "scientificName": "Pangshura tentoria",
+    "imageUrl": "https://th.bing.com/th/id/OIP.gXBNRSTvhf0Bo6Ktr478zAHaE8?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 74
+  },
+  {
+    "name": "Leith’s Softshell Turtle",
+    "scientificName": "Nilssonia leithii",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/medium/original/2560px-leith27s-softshell-turtle.webp",
+    "category": "Reptiles",
+    "popularity": 70
+  },
+  {
+    "name": "Forest Calotes",
+    "scientificName": "Calotes rouxii",
+    "imageUrl": "https://th.bing.com/th/id/OIP.UmtshR3uTxoS8tGVEDgGAwHaEu?rs=1&pid=ImgDetMain",
+    "category": "Reptiles",
+    "popularity": 64
+  }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "animals": [
+  {
+    "name": "Rohu",
+    "scientificName": "Labeo rohita",
+    "imageUrl": "https://assets.rbl.ms/50148572/origin.jpg",
+    "category": "Fish",
+    "popularity": 95,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Catla",
+    "scientificName": "Catla catla",
+    "imageUrl": "https://thumbs.dreamstime.com/b/catla-katla-fish-catla-katla-fish-india-fresh-water-fish-isolated-white-background-241042129.jpg",
+    "category": "Fish",
+    "popularity": 92,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Mrigal Carp",
+    "scientificName": "Cirrhinus cirrhosus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Q282MegfKpfxLd9k8LtlbgHaFF?rs=1&pid=ImgDetMain",
+    "category": "Fish",
+    "popularity": 89,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Magur",
+    "scientificName": "Clarias batrachus",
+    "imageUrl": "https://5.imimg.com/data5/YQ/JG/MY-44703408/magur-cat-fish-1000x1000.jpg",
+    "category": "Fish",
+    "popularity": 88,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Walking Catfish",
+    "scientificName": "Clarias dussumieri",
+    "imageUrl": "https://a-z-animals.com/media/2021/08/Walking-catfish-on-tiles-1024x535.jpg",
+    "category": "Fish",
+    "popularity": 84,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Golden Mahseer",
+    "scientificName": "Tor putitora",
+    "imageUrl": "https://th.bing.com/th/id/R.25393a2a5bf689dd5592751e822dd9bf?rik=xr7DfcIeaU%2bzIw&riu=http%3a%2f%2fwww.predatoryfins.com%2fcdn%2fshop%2fproducts%2fdb52e8_015c1197c62840e79bf08b8ecc3bb856_mv2.jpg%3fv%3d1620159150&ehk=466acv8clRcFymKS4amWkaldg7NDDfrm7Xok4neC9YI%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Fish",
+    "popularity": 91,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Glassy Fish",
+    "scientificName": "Parambassis ranga",
+    "imageUrl": "https://th.bing.com/th/id/OIP.LgC39EJdEwFnNFPG77h1uAHaE7?rs=1&pid=ImgDetMain",
+    "category": "Fish",
+    "popularity": 77,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian River Shad",
+    "scientificName": "Gudusia chapra",
+    "imageUrl": "https://static.inaturalist.org/photos/202127001/medium.jpg",
+    "category": "Fish",
+    "popularity": 75,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Hilsa",
+    "scientificName": "Tenualosa ilisha",
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/11/360269017/JR/OB/LR/57282202/frozen-hilsa-fish-500x500.jpg",
+    "category": "Fish",
+    "popularity": 94,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Flying Barb",
+    "scientificName": "Esomus danrica",
+    "imageUrl": "https://www.fishkeeper.co.uk/media/databank/images/image/EsoMAQ1a.jpg",
+    "category": "Fish",
+    "popularity": 80,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Clown Knifefish",
+    "scientificName": "Chitala chitala",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5153b3fae4b0473d83b61202/1598776932432-002XM2ZK96LTCFJIG7H3/ke17ZwdGBToddI8pDm48kLXmtniNzO3Ro12Njvg_xFF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXexgcEDkFhAA_9pTCyS0UmVwWsCUTRh6TU0I2cQOi6yTCgV58CQKqkVi4LppNMUzA/clown+knife+fish.jpg",
+    "category": "Fish",
+    "popularity": 87,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Snakehead Murrel",
+    "scientificName": "Channa striata",
+    "imageUrl": "https://i.pinimg.com/originals/82/b4/bd/82b4bd96e20863861cb1af1b16c180a7.jpg",
+    "category": "Fish",
+    "popularity": 85,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Hill Trout",
+    "scientificName": "Barilius bendelisis",
+    "imageUrl": "https://news.orvis.com/images/01-fly-fishing/2015/11-nov/hill2.jpg",
+    "category": "Fish",
+    "popularity": 78,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Torrent Catfish",
+    "scientificName": "Amblyceps mangois",
+    "imageUrl": "https://th.bing.com/th/id/R.df5d22612a0f650c4ff621cdaa7b900c?rik=OfkU8v7Fbl8C%2fw&riu=http%3a%2f%2ffishillust.com%2ffiles%2fattach%2fimages%2f106987%2f987%2f106%2f59fbad3b4df55d7f25b68b0f2cbae6b6.jpg&ehk=uZdgi2Wer0M%2fFNpPfScuq%2fmeW6hwvdNHM%2fRmeMrUSNg%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Fish",
+    "popularity": 72,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Stone Loach",
+    "scientificName": "Nemacheilus botia",
+    "imageUrl": "https://www.aqua-imports.com/wp-content/uploads/2023/01/Indian-Stone-Loach.jpg",
+    "category": "Fish",
+    "popularity": 70,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Freshwater Eel",
+    "scientificName": "Anguilla bengalensis",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/103123040/large.jpeg",
+    "category": "Fish",
+    "popularity": 76,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Deccan Mahseer",
+    "scientificName": "Tor khudree",
+    "imageUrl": "https://static.inaturalist.org/photos/181398067/medium.jpeg",
+    "category": "Fish",
+    "popularity": 90,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Halfbeak",
+    "scientificName": "Dermogenys pusilla",
+    "imageUrl": "https://d18lev1ok5leia.cloudfront.net/chesapeakebay/field-guide/american-halfbeak/_700x600_fit_center-center_none/American_Halfbeak_page_image1.jpg",
+    "category": "Fish",
+    "popularity": 68,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Spiny Eel",
+    "scientificName": "Mastacembelus armatus",
+    "imageUrl": "https://shrimplovers.com.au/upload/modules/cart/product/originals/1471/spiny-eel-shrimplovers.jpg",
+    "category": "Fish",
+    "popularity": 73,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Paradise Fish",
+    "scientificName": "Macropodus cupanus",
+    "imageUrl": "https://www.fishkeepingworld.com/wp-content/uploads/2018/11/Paradise-Gourami-Fish-Care-Diet-Tank-Mates...-Banner.jpg",
+    "category": "Fish",
+    "popularity": 74,
+   "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Olive Barb",
+    "scientificName": "Systomus sarana",
+    "imageUrl": "https://i.ytimg.com/vi/ut5Qz9vvXyI/maxresdefault.jpg",
+    "category": "Fish",
+    "popularity": 79,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Banded Gourami",
+    "scientificName": "Trichogaster fasciata",
+    "imageUrl": "https://www.tropicalfishkeeping.com/attachments/trichogaster-20fasciata3-jpg.148034/",
+    "category": "Fish",
+    "popularity": 83,
+   "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Threadfin",
+    "scientificName": "Polynemus indicus",
+    "imageUrl": "https://i.pinimg.com/originals/eb/91/30/eb9130552daf7ec91c98758915aee618.jpg",
+    "category": "Fish",
+    "popularity": 69,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian River Perch",
+    "scientificName": "Badis badis",
+    "imageUrl": "https://wildlifedepartment.com/sites/default/files/2023-01/White%20Perch-NCWRC_0.jpg",
+    "category": "Fish",
+    "popularity": 71,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Anchovy",
+    "scientificName": "Stolephorus indicus",
+    "imageUrl": "https://alchetron.com/cdn/indian-anchovy-6236c0bd-f6c2-41f5-938c-ae32aec32eb-resize-750.jpeg",
+    "category": "Fish",
+    "popularity": 66,
+     "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Long Whiskers Catfish",
+    "scientificName": "Sperata seenghala",
+    "imageUrl": "https://64.media.tumblr.com/bb87a5056c284fbdece312692f3440d2/tumblr_nta7iewq0G1th8jn4o1_540.jpg",
+    "category": "Fish",
+    "popularity": 82,
+     "regions": ["RIVERS AND LAKES"]
+  },
+  {
+  "name": "Indian Barred Spiny Eel",
+  "scientificName": "Macrognathus pancalus",
+  "imageUrl": "https://th.bing.com/th/id/OIP.gFeNMBHc6j9xMgr225czKwAAAA?rs=1&pid=ImgDetMain",
+  "category": "Fish",
+  "popularity": 65,
+   "regions": ["RIVERS AND LAKES"]
+},
+  {
+    "name": "Indian Loach",
+    "scientificName": "Lepidocephalichthys thermalis",
+    "imageUrl": "https://th.bing.com/th/id/R.567a7f6c897eeb0001dd04d7ffabe256?rik=H%2benq4MVYM%2b4cg&riu=http%3a%2f%2fteowayyong.net%2fMedia%2ffishcatalog%2fLoach%2fZebra_Loach.jpg&ehk=rJh4PvTfFJQYZ6GGrZlQ1ddJClvDTOUdHru%2fhgeIi8A%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Fish",
+    "popularity": 64,
+    "regions": ["RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Shovelnose Catfish",
+    "scientificName": "Wallago attu",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-kkon4imfg5/images/stencil/1280x1280/products/8160/6013/12400381__50819.1522386795.jpg?c=2",
+    "category": "Fish",
+    "popularity": 86,
+    "regions": ["RIVERS AND LAKES"]
+  }
+  ]
+}

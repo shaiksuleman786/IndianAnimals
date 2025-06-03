@@ -1,0 +1,732 @@
+{
+  "animals": [
+  {
+    "name": "Bengal Tiger",
+    "scientificName": "Panthera tigris tigris",
+    "imageUrl": "https://wallpaperaccess.com/full/675094.jpg",
+    "category": "Mammals",
+    "popularity": 98,
+    "regions": ["TROPICAL", "ENDANGERED", "PROTECTED", "WILDLIFE"]
+  },
+  {
+    "name": "Asiatic Lion",
+    "scientificName": "Panthera leo persica",
+    "imageUrl": "https://img.freepik.com/premium-photo/big-male-african-lion-panthera-leo-lying-grass_641010-19738.jpg",
+    "category": "Mammals",
+    "popularity": 95,
+    "regions": ["ARID", "ENDANGERED", "PROTECTED", "SAVANNAH"]
+  },
+  {
+    "name": "Indian Elephant",
+    "scientificName": "Elephas maximus indicus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.2UjAGkB0BEZEloGXWHt3pAHaEK?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 94,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Leopard",
+    "scientificName": "Panthera pardus fusca",
+    "imageUrl": "https://wildlifefaq.com/wp-content/uploads/2023/11/wildlife-conservation-1024x585.jpg",
+    "category": "Mammals",
+    "popularity": 92,
+    "regions": ["TROPICAL", "MOUNTAIN", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Sloth Bear",
+    "scientificName": "Melursus ursinus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.o2gj5-018S_i223qCvJqsgHaEq?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 90,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Wolf",
+    "scientificName": "Canis lupus pallipes",
+    "imageUrl": "https://th.bing.com/th/id/OIP.-xU6rs1Mo8_53TSsX98w3QAAAA?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 89,
+    "regions": ["ARID", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Golden Jackal",
+    "scientificName": "Canis aureus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.xerhRGNOXOhBm0Im03r4-QHaEK?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 88,
+    "regions": ["ARID", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Fox",
+    "scientificName": "Vulpes bengalensis",
+    "imageUrl": "https://64.media.tumblr.com/6d859a2529103f1cb5f4f09ea58bfa72/tumblr_mpqkpcgXgZ1r007dfo1_1280.png",
+    "category": "Mammals",
+    "popularity": 86,
+    "regions": ["ARID", "TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Pangolin",
+    "scientificName": "Manis crassicaudata",
+    "imageUrl": "https://img.freepik.com/premium-photo/indian-pangolin-indian-pangolin-walking-grass_999327-90873.jpg",
+    "category": "Mammals",
+    "popularity": 85,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Striped Hyena",
+    "scientificName": "Hyaena hyaena",
+    "imageUrl": "https://th.bing.com/th/id/R.00b32e212e5077d1b8895d947d9a72fb?rik=MlgXkcJxscU4UA&riu=http%3a%2f%2ffarm8.staticflickr.com%2f7345%2f9113874718_a4a62ffc0e_k.jpg&ehk=EZuoTojXWHgD724eGefoaZsNjyn9eVMM49aZ3C8DuKk%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Mammals",
+    "popularity": 83,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "imageUrl": "https://img.freepik.com/premium-photo/snow-leopard-top-mountain-against-background-mountain-snow-landscape-magnificent_700453-2050.jpg?w=2000",
+    "category": "Mammals",
+    "popularity": 95,
+    "regions": ["MOUNTAIN", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Red Fox",
+    "scientificName": "Vulpes vulpes",
+    "imageUrl": "https://th.bing.com/th/id/OIP.2UjTEyvvGkKQGzXDopRD2wHaGd?w=826&h=720&rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 85,
+    "regions": ["TEMPERATE", "WILDLIFE"]
+  },
+  {
+    "name": "Clouded Leopard",
+    "scientificName": "Neofelis nebulosa",
+    "imageUrl": "https://koala.sh/api/image/v2-5j1nq-4u3jg.jpg?width=1216&height=832&dream",
+    "category": "Mammals",
+    "popularity": 78,
+    "regions": ["TROPICAL", "MOUNTAIN", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Indian Wild Dog (Dhole)",
+    "scientificName": "Cuon alpinus",
+    "imageUrl": "https://cdn1.byjus.com/wp-content/uploads/2023/03/unnamed-10.jpg",
+    "category": "Mammals",
+    "popularity": 88,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Rhinoceros",
+    "scientificName": "Rhinoceros unicornis",
+    "imageUrl": "https://files.worldwildlife.org/wwfcmsprod/images/Greater_One_Horned_Rhino_8.6.2012_Hero_and_Circle_HI_107996.jpg/hero_small/t0osmdlpd_Greater_One_Horned_Rhino_8.6.2012_Hero_and_Circle_HI_107996.jpg",
+    "category": "Mammals",
+    "popularity": 91,
+    "regions": ["TROPICAL", "ENDANGERED", "PROTECTED", "WILDLIFE"]
+  },
+  {
+    "name": "Sun Bear",
+    "scientificName": "Helarctos malayanus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.d8Tb_sSLDzWBfNSrNT1yAwHaF_?w=845&h=684&rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 75,
+    "regions": ["TROPICAL", "ENDANGERED", "WILDLIFE"]
+  },
+  {
+    "name": "Wild Water Buffalo",
+    "scientificName": "Bubalus arnee",
+    "imageUrl": "https://alchetron.com/cdn/wild-water-buffalo-902a5c02-64be-4df1-9a36-c766e7c8390-resize-750.jpeg",
+    "category": "Mammals",
+    "popularity": 87,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Gaur (Indian Bison)",
+    "scientificName": "Bos gaurus",
+    "imageUrl": "https://dinoanimals.com/wp-content/uploads/2023/03/Gaur-2-750x469.jpg",
+    "category": "Mammals",
+    "popularity": 85,
+    "region": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Nilgai (Blue Bull)",
+    "scientificName": "Boselaphus tragocamelus",
+    "imageUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/nilgai-or-blue-bull-tadoba-national-park-muralidhar-gopalakrishna.jpg",
+    "category": "Mammals",
+    "popularity": 84,
+    "region": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Blackbuck",
+    "scientificName": "Antilope cervicapra",
+    "imageUrl": "https://im.whatshot.in/img/2021/Mar/istock-499262824-cropped-1616413244.jpg",
+    "category": "Mammals",
+    "popularity": 82,
+    "region": ["ARID", "SAVANNAH"]
+  },
+  {
+    "name": "Chinkara (Indian Gazelle)",
+    "scientificName": "Gazella bennettii",
+    "imageUrl": "https://tigerreservesinindia.com/wp-content/uploads/2017/01/Nitin-Jain_1.jpg",
+    "category": "Mammals",
+    "popularity": 97,
+    "region": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Wild Boar",
+    "scientificName": "Sus scrofa cristatus",
+    "imageUrl": "https://4.bp.blogspot.com/-ir_nuv-FEww/XLUxk-IjXAI/AAAAAAAAuE0/KMs6Uk9yaDwwW4N9cUXDQViCjb8XQSWeQCLcBGAs/s1600/1%2BIndian%2Bwild%2Bboar%2B-%2Byala.jpg",
+    "category": "Mammals",
+    "popularity": 94,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Dhole (Indian Wild Dog)",
+    "scientificName": "Cuon alpinus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.T6tM2_5a4HIL1mnjQtRJVAHaE2?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 93,
+    "region": ["TROPICAL", "PROTECTED", "WILDLIFE"]
+  },
+  {
+    "name": "Striped Hyena",
+    "scientificName": "Hyaena hyaena",
+    "imageUrl": "https://th.bing.com/th/id/R.00b32e212e5077d1b8895d947d9a72fb?rik=MlgXkcJxscU4UA&riu=http%3a%2f%2ffarm8.staticflickr.com%2f7345%2f9113874718_a4a62ffc0e_k.jpg&ehk=EZuoTojXWHgD724eGefoaZsNjyn9eVMM49aZ3C8DuKk%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Mammals",
+    "popularity": 91,
+    "region": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Himalayan Black Bear",
+    "scientificName": "Ursus thibetanus",
+    "imageUrl": "https://res.cloudinary.com/roundglass/image/upload/c_fill,ar_16:9,g_auto/w_1920,q_auto:best,f_auto/v1614580082/roundglass/asiatic-himalayan-black-bear-frontal-dhritiman-mukherjee_w0lggu.jpg",
+    "category": "Mammals",
+    "popularity": 89,
+    "region": ["MOUNTAIN", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Porcupine",
+    "scientificName": "Hystrix indica",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weissschwanzstachelschwein_Hystrix_indica_Tierpark_Hellabrunn-12_(cropped).jpg/440px-Weissschwanzstachelschwein_Hystrix_indica_Tierpark_Hellabrunn-12_(cropped).jpg",
+    "category": "Mammals",
+    "popularity": 88,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Giant Squirrel",
+    "scientificName": "Ratufa indica",
+    "imageUrl": "https://top10animal.com/wp-content/uploads/2021/05/multicoloured-squirrel.jpg",
+    "category": "Mammals",
+    "popularity": 87,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Malabar Spiny Dormouse",
+    "scientificName": "Platacanthomys lasiurus",
+    "imageUrl": "https://biomemedia.org/wp-content/uploads/2024/04/MalabarSpinyDormouse-1024x576.jpg",
+    "category": "Mammals",
+    "popularity": 85,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Jungle Cat",
+    "scientificName": "Felis chaus",
+    "imageUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/jungle-cat-at-night-kanha-np-madhya-pradesh-india-staffan-widstrand--natureplcom.jpg",
+    "category": "Mammals",
+    "popularity": 84,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Desert Cat",
+    "scientificName": "Felis lybica",
+    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2023/09/28090704/Indian-desert-cat-camouflaging-in-dry-grass-in-the-desert-of-Rajasthan-India.-Photo-by-Radheshyam-Bishnoi-1200x800.jpg",
+    "category": "Mammals",
+    "popularity": 82,
+    "region": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Rusty-Spotted Cat",
+    "scientificName": "Prionailurus rubiginosus",
+    "imageUrl": "https://live.staticflickr.com/65535/48902535353_f55d2286be_b.jpg",
+    "category": "Mammals",
+    "popularity": 97,
+    "region": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Leopard Cat",
+    "scientificName": "Prionailurus bengalensis",
+    "imageUrl": "https://ecofriendlycoffee.org/wp-content/uploads/2019/07/7.Leopard-cat-Daijiworld2009..jpg",
+    "category": "Mammals",
+    "popularity": 94,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Fishing Cat",
+    "scientificName": "Prionailurus viverrinus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.5QGwfebokcTfI4yYnFPhBwHaE7?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 93,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "ENDANGERED"]
+  },
+  {
+    "name": "Caracal",
+    "scientificName": "Caracal caracal",
+    "imageUrl": "https://i.pinimg.com/originals/ac/3a/98/ac3a98601ce7cf9f94012b011c4c2572.jpg",
+    "category": "Mammals",
+    "popularity": 91,
+    "regions": ["ARID", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Civet",
+    "scientificName": "Viverricula indica",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/full/1.25x1/large-indian-civet-viverra-zibetha-in-kaeng-krachan-national-park.webp",
+    "category": "Mammals",
+    "popularity": 89,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Small Indian Civet",
+    "scientificName": "Viverricula indica",
+    "imageUrl": "https://rajajinationalpark.org/wp-content/uploads/small-indian-civet.jpg",
+    "category": "Mammals",
+    "popularity": 88,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Common Palm Civet",
+    "scientificName": "Paradoxurus hermaphroditus",
+    "imageUrl": "https://static.wixstatic.com/media/bac465_a3c92da69f90435ba816c961ac2798c5~mv2.jpg/v1/fill/w_1200,h_800,al_c,q_85/MWG_111017-M5F3638DT.jpg",
+    "category": "Mammals",
+    "popularity": 87,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Brown Palm Civet",
+    "scientificName": "Paradoxurus jerdoni",
+    "imageUrl": "https://www.conservationindia.org/wp-content/files_mf/1361949707BrownPalmCivet_Paradoxurusjerdoni_MG_1528.jpg",
+    "category": "Mammals",
+    "popularity": 85,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Indian Grey Mongoose",
+    "scientificName": "Herpestes edwardsii",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/medium/original/DLHcnaK8Xa1cOd0OzRsm.webp",
+    "category": "Mammals",
+    "popularity": 84,
+    "regions": ["TROPICAL", "ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Ruddy Mongoose",
+    "scientificName": "Herpestes smithii",
+    "imageUrl": "https://i.pinimg.com/736x/7f/35/05/7f350535eca693a97dbd5131ff65e66e--mongoose-display.jpg",
+    "category": "Mammals",
+    "popularity": 82,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Stripe-Necked Mongoose",
+    "scientificName": "Herpestes vitticollis",
+    "imageUrl": "https://c2.staticflickr.com/8/7414/10036270315_7c757deeb2_b.jpg",
+    "category": "Mammals",
+    "popularity": 76,
+    "regions": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Crab-Eating Mongoose",
+    "scientificName": "Herpestes urva",
+    "imageUrl": "https://th.bing.com/th/id/OIP.pT_fFifVa4sL3uQt6YDMvQHaE8?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 72,
+    "regions": ["TROPICAL", "RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Hare",
+    "scientificName": "Lepus nigricollis",
+    "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/218911/large.jpg",
+    "category": "Mammals",
+    "popularity": 70,
+    "regions": ["ARID", "SAVANNAH", "WILDLIFE"]
+  },
+  {
+    "name": "Hispid Hare",
+    "scientificName": "Caprolagus hispidus",
+    "imageUrl": "https://www.insideindianjungles.com/wp-content/uploads/2018/11/Hispid-hare-rabbit-Animal-Facts-with-Photos.jpg",
+    "category": "Mammals",
+    "popularity": 64,
+    "regions": ["TROPICAL", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Indian Mole",
+    "scientificName": "Talpa micrura",
+    "imageUrl": "https://rajajinationalpark.org/wp-content/uploads/lesser-bandicoot-rat.jpg",
+    "category": "Mammals",
+    "popularity": 61,
+    "regions": ["TEMPERATE", "MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Flying Fox",
+    "scientificName": "Pteropus giganteus",
+    "imageUrl": "https://rajajinationalpark.org/wp-content/uploads/indian-flying-fox.jpg",
+    "category": "Mammals",
+    "popularity": 82,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Short-Nosed Fruit Bat",
+    "scientificName": "Cynopterus sphinx",
+    "imageUrl": "https://th.bing.com/th/id/OIP.4umbFJ9AwpfOKAaS31xuqgHaE7?w=626&h=417&rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 60,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Pipistrelle Bat",
+    "scientificName": "Pipistrellus coromandra",
+    "imageUrl": "https://26project.org.uk/26wild/wp-content/uploads/sites/23/2020/08/pipistrelle-bat-by-wolf-359-licensed-under-CC-BY-NC-SA-2.0-1024x866.jpg",
+    "category": "Mammals",
+    "popularity": 59,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Palm Squirrel",
+    "scientificName": "Funambulus palmarum",
+    "imageUrl": "https://th.bing.com/th/id/OIP.hWq5mGrn2xX8sTRJnxDPMQHaE6?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 78,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Northern Palm Squirrel",
+    "scientificName": "Funambulus pennantii",
+    "imageUrl": "https://thumbs.dreamstime.com/b/northern-palm-squirrel-funambulus-pennantii-close-up-also-known-as-five-striped-103793253.jpg",
+    "category": "Mammals",
+    "popularity": 73,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Five-Striped Palm Squirrel",
+    "scientificName": "Funambulus pennantii",
+    "imageUrl": "https://www.birdforum.net/gallery/five-striped-palm-squirrel.686007/full",
+    "category": "Mammals",
+    "popularity": 73,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Field Mouse",
+    "scientificName": "Mus booduga",
+    "imageUrl": "https://alchetron.com/cdn/little-indian-field-mouse-09a81966-e400-46b5-81ae-7280ba4ed6c-resize-750.jpeg",
+    "category": "Mammals",
+    "popularity": 65,
+    "regions": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "House Mouse",
+    "scientificName": "Mus musculus",
+    "imageUrl": "https://media.australian.museum/media/dd/images/Some_image.width-1200.a9cb729.jpg",
+    "category": "Mammals",
+    "popularity": 64,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+  "name": "Indian Mole-Rat",
+  "scientificName": "Bandicota bengalensis",
+  "imageUrl": "https://www.shutterstock.com/shutterstock/videos/14848465/thumb/1.jpg?ip=x480",
+  "category": "Mammals",
+  "popularity": 60,
+  "regions": ["ARID", "WILDLIFE"]
+},
+  {
+    "name": "Indian Gerbil",
+    "scientificName": "Tatera indica",
+    "imageUrl": "https://www.mammalwatching.com/wp-content/uploads/2023/10/FB_IMG_1696930469549-1024x663.jpg",
+    "category": "Mammals",
+    "popularity": 62,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Antelope",
+    "scientificName": "Antilope cervicapra",
+    "imageUrl": "https://cdn1.byjus.com/wp-content/uploads/2021/02/BlackBuck.jpg",
+    "category": "Mammals",
+    "popularity": 86,
+    "regions": ["SAVANNAH", "PROTECTED"]
+  },
+  {
+    "name": "Barking Deer (Muntjac)",
+    "scientificName": "Muntiacus muntjak",
+    "imageUrl": "https://www.aboutanimals.com/images/muntjac-deer-feas-820x556.jpg?c14113",
+    "category": "Mammals",
+    "popularity": 75,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Sambar Deer",
+    "scientificName": "Rusa unicolor",
+    "imageUrl": "https://th.bing.com/th/id/OIP.DKG9obMaPhyYZS_tGsNHCAHaFa?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 83,
+    "regions": ["TROPICAL", "PROTECTED"]
+  },
+  {
+    "name": "Spotted Deer (Chital)",
+    "scientificName": "Axis axis",
+    "imageUrl": "https://s3.animalia.bio/animals/photos/full/1.25x1/1200px-a-chital-stag-1jpg.webp?id=6f33ac6d719e2844cad41b9f653ebdbc",
+    "category": "Mammals",
+    "popularity": 89,
+    "regions": ["TROPICAL", "SAVANNAH"]
+  },
+  {
+    "name": "Barasingha (Swamp Deer)",
+    "scientificName": "Rucervus duvaucelii",
+    "imageUrl": "https://worlddeer.org/wp-content/uploads/2020/10/barasingha-1024x538.jpg",
+    "category": "Mammals",
+    "popularity": 80,
+    "regions": ["WILDLIFE", "RIVERS AND LAKES", "PROTECTED"]
+  },
+  {
+    "name": "Hog Deer",
+    "scientificName": "Axis porcinus",
+    "imageUrl": "https://feralscan.org.au/images/2018%20images/hog_deer%203%20lowres.jpg",
+    "category": "Mammals",
+    "popularity": 74,
+    "regions": ["WILDLIFE", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Indian Mouse Deer",
+    "scientificName": "Moschiola indica",
+    "imageUrl": "https://www.entertales.com/wp-content/uploads/Indian-Chevrotain-768x432.jpg",
+    "category": "Mammals",
+    "popularity": 67,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Himalayan Tahr",
+    "scientificName": "Hemitragus jemlahicus",
+    "imageUrl": "https://www.animalspot.net/wp-content/uploads/2018/07/Himalayan-Tahrs.jpg",
+    "category": "Mammals",
+    "popularity": 70,
+    "regions": ["MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Serow",
+    "scientificName": "Capricornis sumatraensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ctPUwma8S2J9Wq_SIJRKXgHaFj?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 66,
+    "regions": ["MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Indian Goat (Domestic)",
+    "scientificName": "Capra aegagrus hircus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.hL5lfgfA4MkVnWLWxjFN1QHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 84,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Wild Goat (Markhor)",
+    "scientificName": "Capra falconeri",
+    "imageUrl": "https://cdn.britannica.com/51/122951-050-8724CB82/Markhor-wild-goat.jpg",
+    "category": "Mammals",
+    "popularity": 76,
+    "regions": ["MOUNTAIN", "ENDANGERED"]
+  },
+  {
+    "name": "Indian Buffalo (Domestic)",
+    "scientificName": "Bubalus bubalis",
+    "imageUrl": "https://media.istockphoto.com/id/1471184726/photo/the-indian-buffalo-known-as-the-water-buffalo-or-buffalo-is-a-large-domesticated-bovine-found.jpg?s=170667a&w=0&k=20&c=0BqZnUWxO13DVTTLFICZy9MP5Rxx2-4sM9iV9quYxUA=",
+    "category": "Mammals",
+    "popularity": 82,
+    "regions": ["RIVERS AND LAKES", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Camel (Dromedary)",
+    "scientificName": "Camelus dromedarius",
+    "imageUrl": "https://cdn.britannica.com/96/152296-050-BC95629B/Arabian-dromedary-camel-calf.jpg",
+    "category": "Mammals",
+    "popularity": 79,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Donkey (Wild Ass)",
+    "scientificName": "Equus hemionus khur",
+    "imageUrl": "https://critter.science/wp-content/uploads/2021/08/iwd1a-scaled.jpg",
+    "category": "Mammals",
+    "popularity": 74,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Horse (Kathiawari)",
+    "scientificName": "Equus ferus caballus",
+    "imageUrl": "https://www.horsebreedspictures.com/wp-content/uploads/2016/05/White-Kathiawari-Horse.jpg",
+    "category": "Mammals",
+    "popularity": 86,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Cow (Zebu)",
+    "scientificName": "Bos indicus",
+    "imageUrl": "https://a-z-animals.com/media/zebu-3.jpg",
+    "category": "Mammals",
+    "popularity": 91,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Yak",
+    "scientificName": "Bos grunniens",
+    "imageUrl": "https://th.bing.com/th/id/R.3b71c9f2c790c40d0943cb53125a478a?rik=10FxJTZQTA078g&riu=http%3a%2f%2fwiki.yak.net%2f890.o%2findianyak.jpg&ehk=ZaD2BtFDseSFJYQKTdPeLdHctVcYGwAv2iP7Lzukggk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "category": "Mammals",
+    "popularity": 77,
+    "regions": ["MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Himalayan Marmot",
+    "scientificName": "Marmota himalayana",
+    "imageUrl": "https://th.bing.com/th/id/R.0807b9c78296ea7d6421185f0229113e?rik=fYYx%2bGnAq6MlIw&riu=http%3a%2f%2fwww.indianaturewatch.net%2fimages%2falbum%2fphoto%2f2100046004e036e0b1853e.jpg&ehk=YCFqQTeRPCFyjUHC%2bBT1MOSmTiaossplx2mzr26ZyGA%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Mammals",
+    "popularity": 68,
+    "regions": ["MOUNTAIN", "POLAR"]
+  },
+  {
+    "name": "Indian Hedgehog",
+    "scientificName": "Paraechinus micropus",
+    "imageUrl": "https://pbs.twimg.com/media/D1m955WVAAA39aI.jpg",
+    "category": "Mammals",
+    "popularity": 65,
+    "regions": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Desert Hedgehog",
+    "scientificName": "Paraechinus aethiopicus",
+    "imageUrl": "https://images.fineartamerica.com/images-medium-large-5/desert-hedgehog-paraechinus-aethiopicus-photostock-israel.jpg",
+    "category": "Mammals",
+    "popularity": 63,
+    "regions": ["ARID"]
+  },
+  {
+    "name": "Indian Tree Shrew",
+    "scientificName": "Tupaia belangeri",
+    "imageUrl": "https://www.royle-safaris.co.uk/wp-content/uploads/Indian-Treeshrew-India.jpg",
+    "category": "Mammals",
+    "popularity": 66,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Large Brown Flying Squirrel",
+    "scientificName": "Petaurista philippensis",
+    "imageUrl": "https://th.bing.com/th/id/R.b6878c21affca3d07d56955ee890e21f?rik=VF18VKfNf7y8kg&riu=http%3a%2f%2fimg.burrard-lucas.com%2fchina%2ffull%2fgiant_flying_squirrel.jpg&ehk=MViqRL28odPMFkpb9hgiJzGJEXrcZ9NZ9%2f6zs6wgLzw%3d&risl=&pid=ImgRaw&r=0",
+    "category": "Mammals",
+    "popularity": 72,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Malayan Giant Squirrel",
+    "scientificName": "Ratufa bicolor",
+    "imageUrl": "https://i.redd.it/2j504ecgjaw61.jpg",
+    "category": "Mammals",
+    "popularity": 74,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Nilgiri Marten",
+    "scientificName": "Martes gwatkinsii",
+    "imageUrl": "https://www.mammalage.com/wp-content/uploads/2021/03/Nilgiri-marten.jpg",
+    "category": "Mammals",
+    "popularity": 77,
+    "region": ["MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Common Langur (Hanuman)",
+    "scientificName": "Semnopithecus entellus",
+    "imageUrl": "https://media.istockphoto.com/id/532409928/photo/langur-monkey-in-corbett-national-park.jpg?s=612x612&w=0&k=20&c=ojwbKfABMd6Cin4L9CSfrLFWXL3zK7PzYR-OkVS43A0=",
+    "category": "Mammals",
+    "popularity": 85,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Capped Langur",
+    "scientificName": "Trachypithecus pileatus",
+    "imageUrl": "https://res.cloudinary.com/roundglass/image/upload/ar_16:9,c_fill/f_auto,g_auto/v1631622832/rg/collective/media/capped-langur-gibbon-sanctuary-_mg_2161-dhritiman-mukherjee-1631622832328.jpg",
+    "category": "Mammals",
+    "popularity": 71,
+    "region": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Golden Langur",
+    "scientificName": "Trachypithecus geei",
+    "imageUrl": "https://st1.latestly.com/wp-content/uploads/2020/02/Golden-Langur.jpg",
+    "category": "Mammals",
+    "popularity": 78,
+    "region": ["TROPICAL", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Lion-Tailed Macaque",
+    "scientificName": "Macaca silenus",
+    "imageUrl": "https://vignette.wikia.nocookie.net/animals-are-cool/images/f/f5/Lion-tailed_macaque_by_N_A_Nazeer.jpg/revision/latest/scale-to-width-down/2000?cb=20180327213840",
+    "category": "Mammals",
+    "popularity": 88,
+    "region": ["TROPICAL", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Bonnet Macaque",
+    "scientificName": "Macaca radiata",
+    "imageUrl": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/Bonnet_Macaque_-_From_Kerala.jpg",
+    "category": "Mammals",
+    "popularity": 81,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Rhesus Macaque",
+    "scientificName": "Macaca mulatta",
+    "imageUrl": "https://th.bing.com/th/id/OIP.iXtdfULAFlGW7rrOem0BMgHaEk?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 87,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Assamese Macaque",
+    "scientificName": "Macaca assamensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.v37ZVtEVXJQPXyQDbWFETQHaE6?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 75,
+    "region": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Arunachal Macaque",
+    "scientificName": "Macaca munzala",
+    "imageUrl": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1000,h_666/https://neprimateconservancy.org/wp-content/uploads/2021/12/Arunachal-macaque-Kripaljyoti-Mazumdar-iNaturalist-cc-resize.jpg",
+    "category": "Mammals",
+    "popularity": 73,
+    "region": ["MOUNTAIN", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Slow Loris",
+    "scientificName": "Nycticebus bengalensis",
+    "imageUrl": "https://4.bp.blogspot.com/-XySiRnV031k/WTwdezldW8I/AAAAAAAAAc4/BxoKtbPgoJkiqjzoo1jSSuJ5t_X7r4TPQCLcB/s1600/1.jpg",
+    "category": "Mammals",
+    "popularity": 70,
+    "region": ["TROPICAL", "WILDLIFE", "PROTECTED"]
+  },
+  {
+    "name": "Kashmir Stag (Hangul)",
+    "scientificName": "Cervus hanglu hanglu",
+    "imageUrl": "https://www.lifeberrys.com/img/article/kashmir-stag-hangul-1593688384-lb.jpg",
+    "category": "Mammals",
+    "popularity": 83,
+    "region": ["MOUNTAIN", "ENDANGERED", "PROTECTED"]
+  },
+  {
+    "name": "Indian Long-Eared Hedgehog",
+    "scientificName": "Hemiechinus collaris",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ZJnF_WhtZ96tRxRc7LwCegHaE1?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 64,
+    "region": ["ARID", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Water Shrew",
+    "scientificName": "Chimarrogale himalayica",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Cpjt1QFUiWr1y5L-QFJVagHaE7?rs=1&pid=ImgDetMain",
+    "category": "Mammals",
+    "popularity": 60,
+    "region": ["RIVERS AND LAKES", "MOUNTAIN"]
+  }
+]
+}

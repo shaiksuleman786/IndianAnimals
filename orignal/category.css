@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.site-header {
+  background: #4CAF50;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 30px;
+  flex-wrap: wrap;
+}
+
+.site-header .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.site-header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.site-header input {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.category-banner {
+  background-color: #66bb6a;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.filters {
+  margin: 20px;
+  text-align: center;
+}
+
+.filters select, .filters button {
+  margin: 5px;
+  padding: 8px 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.animal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.animal-card {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.animal-card:hover {
+  transform: scale(1.03);
+}
+
+.animal-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.animal-card .info {
+  padding: 15px;
+  background-color: #000;
+  color: white;
+}
+
+.animal-card .info h3 {
+  margin: 0;
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+
+.animal-card .info p {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+}
+.pagination-controls button {
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.pagination-controls button:hover {
+  background-color: #43a047;
+}
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin: 20px 0;
+}
+.pagination-controls span {
+  font-size: 14px;
+}

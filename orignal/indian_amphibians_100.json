@@ -1,0 +1,272 @@
+{
+  "animals": [
+  
+  {
+    "name": "Indian Bullfrog",
+    "scientificName": "Hoplobatrachus tigerinus",
+    "imageUrl": "https://cdn.zmescience.com/wp-content/uploads/2013/09/indian-bullfrog.jpg",
+    "category": "Amphibians",
+    "popularity": 85,
+    "regions": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Malabar Gliding Frog",
+    "scientificName": "Rhacophorus malabaricus",
+    "imageUrl": "https://live.staticflickr.com/7121/7582893098_d2457415f2_b.jpg",
+    "category": "Amphibians",
+    "popularity": 80,
+    "regions": ["TROPICAL", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Indian Tree Frog",
+    "scientificName": "Polypedates maculatus",
+    "imageUrl": "https://live.staticflickr.com/4900/39902907513_4374ac3245_b.jpg",
+    "category": "Amphibians",
+    "popularity": 77,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Indian Toad",
+    "scientificName": "Duttaphrynus melanostictus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.oJcbIvpl-rBe5XMiAPYHDgHaFW?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 72,
+    "regions": ["ARID", "TEMPERATE"]
+  },
+  {
+    "name": "Purple Frog",
+    "scientificName": "Nasikabatrachus sahyadrensis",
+    "imageUrl": "https://static.wixstatic.com/media/f804f0_f278339c8ec149d8a219a00977f68654~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/f804f0_f278339c8ec149d8a219a00977f68654~mv2.jpg",
+    "category": "Amphibians",
+    "popularity": 90,
+    "regions": ["ENDANGERED", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Indian Burrowing Frog",
+    "scientificName": "Sphaerotheca breviceps",
+    "imageUrl": "https://static.inaturalist.org/photos/150892/medium.JPG",
+    "category": "Amphibians",
+    "popularity": 68,
+    "regions": ["ARID", "SAVANNAH"]
+  },
+  {
+    "name": "Common Indian Frog",
+    "scientificName": "Euphlyctis cyanophlyctis",
+    "imageUrl": "https://www.drkrishi.co.in/wp-content/uploads/Common_Indian_Tree_Frog-01.jpg",
+    "category": "Amphibians",
+    "popularity": 74,
+    "regions": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Golden-backed Frog",
+    "scientificName": "Hylarana aurantiaca",
+    "imageUrl": "https://th.bing.com/th/id/OIP.ucRX23RbgXO7YYGKkK2UgQHaE7?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 76,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Anamalai Gliding Frog",
+    "scientificName": "Rhacophorus pseudomalabaricus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Ow1cwX3OLhmcDylZLrynjwHaE2?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 79,
+    "regions": ["TROPICAL", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Bombay Night Frog",
+    "scientificName": "Nyctibatrachus humayuni",
+    "imageUrl": "https://d.ibtimes.co.uk/en/full/1524548/bombay-night-frog.jpg",
+    "category": "Amphibians",
+    "popularity": 70,
+    "regions": ["ENDANGERED", "MOUNTAIN"]
+  },
+  {
+    "name": "Amboli Bush Frog",
+    "scientificName": "Raorchestes amboli",
+    "imageUrl": "https://th.bing.com/th/id/OIP.F4rpyQEzdeMH9YUyUgPdIAHaE7?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 73,
+    "regions": ["ENDANGERED", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Coorg Night Frog",
+    "scientificName": "Nyctibatrachus sanctipalustris",
+    "imageUrl": "https://www.zoopicture.ru/assets/2014/05/nightfrog_1540.jpg",
+    "category": "Amphibians",
+    "popularity": 67,
+    "regions": ["ENDANGERED", "MOUNTAIN"]
+  },
+  {
+    "name": "Indian Green Frog",
+    "scientificName": "Euphlyctis hexadactylus",
+    "imageUrl": "https://i.redd.it/o8mt09del1871.jpg",
+    "category": "Amphibians",
+    "popularity": 75,
+    "regions": ["TROPICAL", "RIVERS AND LAKES"]
+  },
+  {
+    "name": "Kodayar Night Frog",
+    "scientificName": "Nyctibatrachus kodayarensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.xQyjm5SuptZwN-OxdqOCoAHaES?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 66,
+    "regions": ["ENDANGERED", "MOUNTAIN"]
+  },
+  {
+    "name": "Silent Valley Bush Frog",
+    "scientificName": "Raorchestes silentvalley",
+    "imageUrl": "https://static.toiimg.com/thumb/msid-84938485,imgsize-714231,width-400,resizemode-4/84938485.jpg",
+    "category": "Amphibians",
+    "popularity": 72,
+    "regions": ["ENDANGERED", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Kalakad Gliding Frog",
+    "scientificName": "Rhacophorus calcadensis",
+    "imageUrl": "https://alchetron.com/cdn/kalakad-gliding-frog-0ca665f7-17c1-48fa-bbab-24d2d1319ef-resize-750.jpg",
+    "category": "Amphibians",
+    "popularity": 78,
+    "regions": ["ENDANGERED", "MOUNTAIN"]
+  },
+  {
+    "name": "Travancore Bush Frog",
+    "scientificName": "Raorchestes travancoricus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Cotjd-NqO7imv1nKP-Gv-gHaE8?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 69,
+    "regions": ["ENDANGERED", "MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Small Tree Frog",
+    "scientificName": "Polypedates leucomystax",
+    "imageUrl": "https://th.bing.com/th/id/OIP.U8ogfSHeIXOW-eAK-sujqgHaDe?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 65,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Tirunelveli Wrinkled Frog",
+    "scientificName": "Nyctibatrachus beddomii",
+    "imageUrl": "https://th.bing.com/th/id/OIP.p4ZM4mAnK3mzycCW5wVR8wHaE8?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 69,
+    "regions": ["ENDANGERED", "MOUNTAIN"]
+  },
+  {
+    "name": "Kerala Warty Frog",
+    "scientificName": "Fejervarya keralensis",
+    "imageUrl": "https://th.bing.com/th/id/OIP.GlFVkFBsSaB24r1F61mmawHaE7?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 72,
+    "regions": ["TROPICAL", "WILDLIFE"]
+  },
+  {
+    "name": "Ramanella Montana",
+    "scientificName": "Uperodon montanus",
+    "imageUrl": "https://th.bing.com/th/id/OIP.WIO_j1nh_OkaZ_JA_v0vsQHaFZ?rs=1&pid=ImgDetMain",
+    "category": "Amphibians",
+    "popularity": 70,
+    "regions": ["MOUNTAIN", "PROTECTED"]
+  },
+  {
+    "name": "Ponmudi Wrinkled Frog",
+    "scientificName": "Nyctibatrachus ponmudi",
+    "imageUrl": "https://media.istockphoto.com/photos/critically-endangered-frog-raorchestes-ponmudi-picture-id972161772?k=20&m=972161772&s=612x612&w=0&h=EadZwD6CZ4xCkXCLSxam5iGieOSlHH1x6JyiQ8xiZVk=",
+    "category": "Amphibians",
+    "popularity": 71,
+    "regions": ["ENDANGERED", "MOUNTAIN", "PROTECTED"]
+  },
+
+ {
+  "name": "Kalpatta Yellow Bush Frog",
+  "scientificName": "Raorchestes ochlandrae",
+  "imageUrl": "https://th.bing.com/th/id/OIP.ahVYzOQ3SpKQ_KCzpfllcAHaE7?rs=1&pid=ImgDetMain",
+  "category": "Amphibians",
+  "popularity": 74,
+  "regions": ["TROPICAL"]
+},
+{
+  "name": "Indian Torrent Frog",
+  "scientificName": "Micrixalus saxicola",
+  "imageUrl": "https://th.bing.com/th/id/OIP.e8PgaGuYB0_f8wh22bWgIgAAAA?w=400&h=300&rs=1&pid=ImgDetMain",
+  "category": "Amphibians",
+  "popularity": 76,
+  "regions": ["RIVERS AND LAKES"]
+},
+{
+  "name": "Coorg Yellow Bush Frog",
+  "scientificName": "Raorchestes luteolus",
+  "imageUrl": "https://th.bing.com/th/id/R.6063ae0550c4fbdff066a821793ade94?rik=yAho84D1J6WMNA&riu=http%3a%2f%2fanimal.memozee.com%2fArchOLD-8%2f1491825516-m.jpg&ehk=QAMKpoQs7PielpYl3Lptrvb%2feIE%2fRx4iYv3mnLJAg0w%3d&risl=&pid=ImgRaw&r=0",
+  "category": "Amphibians",
+  "popularity": 70,
+  "regions": ["TROPICAL", "PROTECTED"]
+},
+{
+  "name": "Malabar Caecilian",
+  "scientificName": "Ichthyophis tricolor",
+  "imageUrl": "https://www.phipps.conservatory.org/images/made/assets/images/as_blog_image/G._Bhatta_cc_4.0_caecillian_India_1494_780_s_c1.jpg",
+  "category": "Amphibians",
+  "popularity": 64,
+  "regions": ["WILDLIFE"]
+},
+{
+  "name": "Yellow-Striped Caecilian",
+  "scientificName": "Ichthyophis beddomei",
+  "imageUrl": "https://live.staticflickr.com/65535/49564964097_82a72a0348_b.jpg",
+  "category": "Amphibians",
+  "popularity": 61,
+  "regions": ["ARID"]
+},
+{
+  "name": "Bombay Caecilian",
+  "scientificName": "Ichthyophis bombayensis",
+  "imageUrl": "https://www.researchgate.net/profile/Jagruti_Rathod/publication/277138651/figure/fig4/AS:583753084702720@1516188989076/The-Bombay-Caecilian-Ichthyophis-bombayensis-One-of-the-largest-and-most-widely.png",
+  "category": "Amphibians",
+  "popularity": 66,
+  "regions": ["TROPICAL", "ENDANGERED"]
+},
+{
+  "name": "Günther's Caecilian",
+  "scientificName": "Indotyphlus battersbyi",
+  "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/104201350/medium.jpg",
+  "category": "Amphibians",
+  "popularity": 58,
+  "regions": ["MOUNTAIN", "PROTECTED"]
+},
+{
+  "name": "Seshachari's Caecilian",
+  "scientificName": "Gegeneophis seshachari",
+  "imageUrl": "https://static.inaturalist.org/photos/88582007/medium.jpg",
+  "category": "Amphibians",
+  "popularity": 60,
+  "regions": ["WILDLIFE"]
+},
+{
+  "name": "Marbled Balloon Frog",
+  "scientificName": "Uperodon mormoratus",
+  "imageUrl": "https://lh6.ggpht.com/o4_xgSYnYRSyEtHIz3J8OsOb8amL3r4zVG8pvHcBu5xlVVH4jDI339_2FsC0kiQV6F4jVF8ntmOvHkpkM1GC=s580",
+  "category": "Amphibians",
+  "popularity": 75,
+  "regions": ["SAVANNAH"]
+},
+{
+  "name": "Nilgiri Torrent Salamander",
+  "scientificName": "Batrachuperus variegatus",
+  "imageUrl": "https://alchetron.com/cdn/torrent-salamander-606d03ce-09f7-4738-aeb8-b29f02b3c7b-resize-750.jpeg",
+  "category": "Amphibians",
+  "popularity": 55,
+  "regions": ["MOUNTAIN", "RIVERS AND LAKES"]
+},
+{
+  "name": "Western Ghats Salamander",
+  "scientificName": "Salamandrella robusta",
+  "imageUrl": "https://www.californiaherps.com/noncal/northwest/nwsalamanders/images/pvehiculum3lcwa18.jpg",
+  "category": "Amphibians",
+  "popularity": 53,
+  "regions": ["TEMPERATE"]
+}
+
+
+  ]
+}

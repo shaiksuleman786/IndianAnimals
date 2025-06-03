@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animals List</title>
+    <link rel="stylesheet" href="animals.css">
+</head>
+<body>
+
+    <div id="header">
+        <button id="backButton">← Back</button>
+        <input type="text" id="searchBar" placeholder="Search for an animal...">
+    </div>
+    <div id="intro-section">
+        <h2 id="title">Animals Starting with ...</h2>
+        <h3 id="species-count">...</h3>
+        <div id="intro-section">
+            <div id="info-box">
+                <p id="info-text">
+    We collected more than <span id="animal-count">2100</span> animals beginning with the letter <span id="letter-info">A</span>.
+    <br><br>
+    You probably expect to find an <span id="example-animal">Anaconda</span> in this list, but it is not here because we use species names rather than group or common names.
+    For example, the term "<span id="group-name">Anaconda</span>" refers to a group of large aquatic snakes that belong to the genus <strong id="genus-name">Eunectes</strong>. 
+    They all are found in <span id="region-name">South America</span>. There are <span id="species-count">four</span> extant species in this family whose names are:
+    <span id="species-list">
+        <a href="#">Green anaconda</a>, <a href="#">Yellow anaconda</a>, 
+        <a href="#">Darkly-spotted anaconda</a>, and <a href="#">Bolivian anaconda</a>.
+    </span>
+    None of these animals start with letter <span id="letter-end">A</span>.
+</p>
+
+                <button id="show-more">... show more</button>
+            </div>
+        </div>
+        
+    </div>
+    <div id="animal-list">Loading animals...</div>
+
+    <script src="animals.js"></script>
+</body>
+</html>

@@ -1,0 +1,522 @@
+[
+  {
+    "name": "American Crow",
+    "scientificName": "Corvus brachyrhynchos",
+    "category": "Bird profile",
+    "imageUrl": "https://projectupland.com/wp-content/uploads/2019/01/American-Crow-%E2%80%93-A-Game-Bird-Species-Profile-3.jpg",
+    "description": "The American Crow is a large, all-black bird known for its intelligence, adaptability, and strong social behavior. With a distinctive cawing call, these birds are highly vocal and can often be seen in large flocks. They thrive in a variety of habitats, from forests and farmlands to cities and suburban areas. American Crows are omnivorous and opportunistic, feeding on everything from insects and grains to small animals and human leftovers. Their cleverness is unmatched among birds, as they can solve problems, recognize faces, and even use tools.",
+    "winterRegions": [
+      {
+        "name": "Northeast",
+        "image": "https://corvidresearch.blog/wp-content/uploads/2020/04/american-crow-range-map.jpg?w=900"
+      },
+      {
+        "name": "Southeast",
+        "image": "https://birdwatchinghq.com/wp-content/uploads/2021/01/american-crow-range-map-768x407.jpg"
+      },
+      {
+        "name": "Southwest",
+        "image": "https://birdwatchinghq.com/wp-content/uploads/2021/01/american-crow-range-map-768x407.jpg"
+      },
+      {
+        "name": "Northwest",
+        "image": "https://birdwatchinghq.com/wp-content/uploads/2021/01/american-crow-range-map-768x407.jpg"
+      }
+    ],
+    "foodTypes": [
+      { "name": "Black Oil Sunflower Seeds", "image": "https://img.freepik.com/premium-vector/sunflower-seeds-raw-oil-ingridient-cartoon-icon_81894-7383.jpg" },
+      { "name": "Hulled Sunflower Seeds", "image": "https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-sunflower-seed-vector-png-image_6879710.png" },
+      { "name": "Suet", "image": "https://th.bing.com/th/id/OIP.SiQCu486wHITngtx79cvRgHaE7?rs=1&pid=ImgDetMain" },
+      { "name": "Cracked Corn", "image": "https://static.vecteezy.com/system/resources/previews/008/216/767/original/cartoon-corn-plant-isolated-icon-vegetable-food-cooking-ingredient-agriculture-concept-vector.jpg" },
+      { "name": "Peanuts", "image": "https://static.vecteezy.com/system/resources/previews/003/987/966/large_2x/walnut-peanut-in-cartoon-flat-style-illustration-on-white-background-free-vector.jpg" },
+      { "name": "Peanut Hearts", "image": "https://th.bing.com/th/id/R.4ff1df2f11e8932cddac7f839491aaf2?rik=4AFk6dNVQgyqAA&riu=http%3a%2f%2fclipart-library.com%2fimg%2f2035148.png&ehk=ayLS7KcSftxDFlZZG%2fSkPkntK%2foAf8co7Ffk6aKeGu4%3d&risl=&pid=ImgRaw&r=0" },
+      { "name": "Fruit", "image": "https://static.vecteezy.com/system/resources/previews/000/688/136/original/delicious-fruits-cartoons-vector.jpg" },
+      { "name": "Millet", "image": "https://static.vecteezy.com/system/resources/previews/030/689/917/large_2x/millet-2d-vector-illustration-cartoon-in-white-background-free-photo.jpg" },
+      { "name": "Oats", "image": "https://th.bing.com/th/id/R.dc5bed3fbefe3eeefde3fc0a2028d104?rik=dVkQmeJrKJY%2fMA&riu=http%3a%2f%2fclipground.com%2fimages%2foat-clipart-5.jpg&ehk=OwbR%2frrakuSdyprsyL%2f%2bXEMIKmTXb%2b4LPwZhg9iy2xo%3d&risl=&pid=ImgRaw&r=0" },
+      { "name": "Milo", "image": "https://img.freepik.com/premium-photo/sesame-seeds-2d-vector-illustration-cartoon-white-back_889056-27768.jpg?w=2000" }
+    ],
+    "feederTypes": [
+      { "name": "Platform", "image": "https://th.bing.com/th/id/R.bc4231f8e9732f60bdc201b5f1071d8c?rik=xPXIYmucgJZz2Q&riu=http%3a%2f%2fgetdrawings.com%2fimage%2fbird-feeder-drawing-58.jpg&ehk=9F3rDYmlOoB8L%2fygeGzuIPTZgMM0gZ9K%2fGYD8Vd7eaY%3d&risl=&pid=ImgRaw&r=0" },
+      { "name": "Ground", "image": "https://static.vecteezy.com/system/resources/previews/021/942/388/original/ground-with-grass-illustration-for-cartoon-scene-free-vector.jpg" },
+      { "name": "Nest", "image": "https://toppng.com/public/uploads/preview/bird-nest-cartoon-birds-nest-11562866507kzshgy9xtr.png" }
+    ],
+    "predator": [
+      { "name": "Humans", "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid" },
+      { "name": "Hawks", "image": "https://t3.ftcdn.net/jpg/01/84/76/68/360_F_184766866_uVqv4qD61KAGjOKEvsHvYHQwzkIGVkIG.jpg" },
+      { "name": "Owls", "image": "https://static.vecteezy.com/system/resources/previews/026/973/809/original/owl-cute-cartoon-ai-generate-png.png" },
+      { "name": "Racoons", "image": "https://t3.ftcdn.net/jpg/04/14/74/00/360_F_414740023_HaBgzXXRPqBqu2Xzc9KQfb9zdpvt4SEC.jpg" }
+    ],
+    "habitat": [
+      { "name": "Forest", "image": "https://www.creativefabrica.com/wp-content/uploads/2022/06/30/Natural-forest-industry-cartoon-vector-i-Graphics-33306466-1.jpg" },
+      { "name": "Fields", "image": "https://png.pngtree.com/png-clipart/20220111/original/pngtree-cartoon-simple-wheat-decoration-material-png-image_7097576.png" },
+      { "name": "Cities", "image": "https://th.bing.com/th/id/OIP.y6mxnBANXJkM8cT1nd1hdAHaFs?w=860&h=661&rs=1&pid=ImgDetMain" },
+      { "name": "Subeurbs", "image": "https://images.creativefabrica.com/products/previews/2023/08/31/jYfenCG71/2arMZB4tT793v3aJKe2BtnKVrc9-desktop.jpg" }
+    ],
+    "lifespan": "The American Crow (Corvus brachyrhynchos) has a relatively long lifespan compared to many other birds.<br><br><b>In the Wild:</b> Typically, American Crows live around 7 to 8 years in their natural habitat. However, some have been recorded living over 14 years in the wild.<br><br><b>In Captivity:</b> When kept in protected environments, they can live significantly longer, with some reaching up to 20–30 years.<br><br><b>Threats to Lifespan:</b> Their lifespan can be shortened due to predation, harsh weather conditions, habitat destruction, and diseases like West Nile virus, which has had a significant impact on crow populations.",
+    "reproduction": "American Crows form long-term monogamous pairs, often staying together for life.<br><br><b>Nesting:</b> They build large, cup-shaped nests in tall trees, usually hidden among dense branches. The nests are made of twigs, grass, and bark, and lined with softer materials like moss and feathers.<br><br><b>Eggs:</b> A female typically lays 3 to 6 pale bluish-green eggs with brown spots. Both parents take turns incubating the eggs for about 16 to 18 days.<br><br><b>Parental Care:</b> After hatching, the chicks are fed by both parents and sometimes by older offspring from previous years. The young crows stay in the nest for about 4 to 5 weeks before fledging.<br><br><b>Family Bonds:</b> Juvenile crows often remain with their parents for several years, helping to care for new hatchlings and defend the nest.",
+    "fun-facts": "<ul><li>American Crows are among the most intelligent birds in the world.</li><li>They recognize individual human faces.</li><li>They have been seen using tools to get food.</li><li>Crows can mimic sounds, including human voices</li></ul>",
+    "behavior": "The American Crow is known for its intelligence, adaptability, and social behavior. These birds are highly vocal and use a wide range of calls to communicate with one another. They often live in tight-knit family groups, with young helping to raise their siblings.<br>Crows are opportunistic feeders, eating everything from insects and seeds to garbage and carrion. They use tools to solve problems and can recognize human faces. They’re cautious and often post lookouts while feeding. At night, crows gather in large communal roosts for safety and warmth.",
+    "source": "https://example.com/more-about-crow"
+  },
+
+  {
+    "name": "Bengal Tiger",
+    "scientificName": "Panthera tigris tigris",
+    "category": "Mammal profile",
+    "imageUrl": "https://facts.net/wp-content/uploads/2023/05/bengal-tiger.jpeg",
+    "description": "The Bengal Tiger is one of the most iconic big cats in the world. Native to the Indian subcontinent, this tiger is known for its striking orange coat with black stripes. It primarily inhabits grasslands, forests, and mangrove swamps. As an apex predator, the Bengal Tiger preys on deer, wild boars, and sometimes even buffalo. It is solitary by nature and has a powerful build for stealth and strength. Despite being the most numerous tiger subspecies, it is still classified as endangered due to habitat loss, poaching, and human-wildlife conflict.",
+    "winterRegions": [
+      {
+        "name": "India",
+        "image": "https://www.pngarts.com/files/3/India-Map-PNG-Image-with-Transparent-Background.png"
+      },
+      {
+        "name": "Bangladesh",
+        "image": "https://png.pngtree.com/png-clipart/20230803/original/pngtree-bangladesh-map-detail-atlas-abstract-vector-picture-image_9437102.png"
+      }
+    ],
+    
+        "foodTypes": [
+          {
+            "name": "Deer",
+            "image": "https://th.bing.com/th/id/OIP.bH79vuzHQfh2JfBPBzrfuwHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "name": "Wild Boar",
+            "image": "https://th.bing.com/th/id/OIP.mPQgCJkAA72z3ehnY47WNQHaFF?rs=1&pid=ImgDetMain"
+          },
+          {
+            "name": "Buffalo",
+            "image": "https://www.sehatcerahindonesia.com/lib/images/item/bufallo.png"
+          },
+          {
+            "name": "Monkey",
+            "image": "https://static.vecteezy.com/system/resources/previews/024/029/758/original/happy-monkey-icon-clipart-transparent-background-free-png.png"
+          }
+        ],
+    "feederTypes": [
+  {
+    "name": "Ground (Forest or Grassland)",
+    "description": "Tigers usually feed on the ground in secluded spots like dense bushes, under trees, or in tall grass.",
+    "image": "https://wildlifetrip.org/wp-content/uploads/2021/10/tiger_eating.jpg"
+  },
+  {
+    "name": "Near Water",
+    "description": "If the kill happens near a river or lake, the tiger may drag it nearby and feed close to the water but still on dry land.",
+    "image": "https://static.vecteezy.com/system/resources/previews/000/519/106/original/a-river-vector.jpg"
+  },
+  {
+    "name": "In Water (Rarely)",
+    "description": "Although tigers are strong swimmers, they rarely feed in water. Most of the time, they pull prey out before eating.",
+    "image": "https://i.pinimg.com/originals/9b/e4/3f/9be43feb48d4b80ee07eedd44a91ecb6.jpg"
+  },
+  {
+    "name": "Under Trees or Fallen Logs",
+    "description": "Tigers sometimes drag their kill under trees or logs for shade and cover, especially during the day.",
+    "image": "https://th.bing.com/th/id/OIG2.u2iWyPLfYm6Mfhex.VZb?w=1024&h=1024&rs=1&pid=ImgDetMain"
+  }
+
+    ],
+    "predator": [
+    {
+      "name": "Humans",
+      "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid"
+    },
+    {
+      "name": "Snare Traps",
+      "image": "https://i.pinimg.com/originals/fd/c0/5a/fdc05ab987c528488d34f9ded53965dc.jpg"
+    },
+    {
+      "name": "Poachers",
+      "image": "https://st3.depositphotos.com/1832477/14018/v/450/depositphotos_140181634-stock-illustration-male-and-female-hunters-old.jpg"
+    },
+    {
+      "name": "Large Crocodiles",
+      "image": "https://th.bing.com/th/id/OIP.TrwHNnwqrMExjZCfxVBr5wAAAA?rs=1&pid=ImgDetMain"
+    }],
+    "habitat": [
+      {
+        "name": "Forests",
+        "image": "https://img.freepik.com/premium-vector/forest-icon-3d-illustration-from-ecology-energy-collection-creative-forest-3d-icon-web-design-templates-infographics-more_676904-2660.jpg?w=2000"
+      },
+      {
+        "name": "Grasslands",
+        "image": "https://cdn-icons-png.flaticon.com/512/2000/2000304.png"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> Bengal Tigers typically live for 10–15 years.<br><br><b>In Captivity:</b> They can live up to 20–25 years due to better care and protection.<br><br><b>Threats:</b> Poaching, habitat destruction, and human conflict are the major reasons for reduced lifespan in the wild.",
+    "reproduction": "<b>Mating:</b> Bengal Tigers do not have a fixed breeding season, but most births occur between November and April.<br><br><b>Gestation:</b> Females are pregnant for about 100–110 days.<br><br><b>Cubs:</b> A litter usually consists of 2–4 cubs. Cubs stay with their mother for up to 2 years before becoming independent.<br><br><b>Parental Care:</b> The mother raises the cubs alone and teaches them to hunt before they leave her territory.",
+    "fun-facts": "<ul><li>Each tiger's stripe pattern is unique—like a fingerprint!</li><li>They are powerful swimmers and often cool off in ponds.</li><li>They can leap up to 30 feet in a single bound.</li><li>Their roar can be heard from 3 kilometers away!</li></ul>",
+    "behavior": "Bengal Tigers are solitary animals and establish large territories. Males have larger territories than females and overlap with several female territories. They mark their territory using scent and roar to communicate. These tigers are nocturnal and primarily hunt at night using stealth and power. Tigers are ambush predators and can remain undetected until they attack. They rarely climb trees but are strong swimmers and often bathe to cool down.",
+    "source": "https://en.wikipedia.org/wiki/Bengal_tiger"
+  },
+  {
+    "name": "Giraffe",
+    "scientificName": "Giraffa camelopardalis",
+    "category": "Mammal profile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/800px-Giraffe_standing.jpg",
+    "description": "The Giraffe is the tallest land animal on Earth, known for its extremely long neck and legs. Native to the savannas and woodlands of Africa, giraffes feed mainly on acacia leaves, which they reach with their height and long tongue. Their patterned coat provides camouflage in the dry, wooded environment. Giraffes are gentle, social animals that move in loose herds and communicate with each other through body language, low-frequency sounds, and sometimes snorts or hisses.",
+    "winterRegions": [
+      {
+        "name": "Sub-Saharan Africa",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Africa_blank_map.png"
+      }
+    ],
+    "foodTypes": [
+      {
+        "name": "Leaves",
+        "image": "https://cdn-icons-png.flaticon.com/512/1795/1795181.png"
+      },
+      {
+        "name": "Fruits",
+        "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png"
+      },
+      {
+        "name": "Twigs",
+        "image": "https://cdn-icons-png.flaticon.com/512/4682/4682935.png"
+      }
+    ],
+    "feederTypes": [],
+    "predator": [
+      {
+        "name": "Lions",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+      },
+      {
+        "name": "Humans",
+        "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid"
+      }
+    ],
+    "habitat": [
+      {
+        "name": "Savannas",
+        "image": "https://cdn-icons-png.flaticon.com/512/2744/2744667.png"
+      },
+      {
+        "name": "Woodlands",
+        "image": "https://cdn-icons-png.flaticon.com/512/1995/1995458.png"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> Giraffes typically live for about 20–25 years.<br><br><b>In Captivity:</b> They can live up to 28–30 years with proper care.<br><br><b>Threats:</b> Poaching, habitat loss, and human encroachment are major threats.",
+    "reproduction": "<b>Mating Season:</b> Giraffes do not have a strict mating season.<br><br><b>Gestation:</b> Lasts about 15 months.<br><br><b>Birth:</b> Females give birth standing up, and calves can stand and walk within hours.<br><br><b>Care:</b> Calves stay close to their mothers and join nursery groups for protection.",
+    "fun-facts": "<ul><li>Giraffes only sleep about 30 minutes a day!</li><li>Their neck has only 7 vertebrae—just like humans.</li><li>A giraffe’s tongue is around 18–20 inches long.</li><li>They run up to 35 mph in short bursts.</li></ul>",
+    "behavior": "Giraffes are peaceful herbivores that roam in small groups. They spend most of their time browsing for food and are most active during the cooler parts of the day. Despite their calm nature, males often engage in 'necking' — swinging their necks to fight for dominance or mates. Giraffes rarely lie down due to predator risk, and they sleep standing up or kneeling for short intervals. They use subtle movements, tail flicks, and low-frequency hums to communicate.",
+    "source": "https://en.wikipedia.org/wiki/Giraffe"
+  },
+  {
+    "name": "Asiatic Lion",
+    "scientificName": "Panthera leo",
+    "category": "Mammal profile",
+    "imageUrl": "https://wallpapercave.com/wp/wp6996593.jpg",
+    "description": "The Lion is known as the king of the jungle, though it primarily inhabits savannas and grasslands. Lions are social big cats that live in groups called prides. They are apex predators and play a crucial role in maintaining the balance of their ecosystems.",
+    "winterRegions": [
+      {
+        "name": "Sub-Saharan Africa",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi2z3Qf0sP_4GmDkMmqDLeyv2rpvMRhLEXFLzc0y_Vo-eID5p2Y9G1_BMpiLNKVdFsY4eLsjShxkbJomEHoOIwh1ROlw_f7iZKkyUXBwMD-JkJdXZLYqyA4CzWglM-YEF1amCOIUF05l1bp29yemaxEIU_cRPjhxQ4ufZtJ1OqlBYO7hfx0VVhOc4bcDo/s880/lions2.png"
+      }
+    ],
+    "foodTypes": [
+      {
+        "name": "Wild boar",
+        "image": "https://pluspng.com/img-png/wild-boar-png-hd-wild-boar-additional-variants-ulquiorra-2-png-704.png"
+      },
+      {
+        "name": "Antelope",
+        "image": "https://www.exoticmeatmarkets.com/v/vspfiles/photos/NILGAIANTELOPEGROUND2LBS-2T.jpg"
+      },
+      {
+        "name": "Deer",
+        "image": "https://th.bing.com/th/id/OIP.aVDmF3u7T9syjLBQAH3NSwHaG0?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Meat",
+        "image": "https://th.bing.com/th/id/OIP.KUqdENqHKWXEr9MED8jy8AHaHa?w=480&h=480&rs=1&pid=ImgDetMain"
+      }
+    ],
+    "feederTypes": [
+      {
+        "name": "Ground",
+        "image": "https://i.pinimg.com/originals/23/b3/eb/23b3eba13008082acfecf84b3119f0cf.png"
+      }
+    ],
+    "predator": [
+      {
+        "name": "Hyenas",
+        "image": "https://pngimg.com/uploads/hyena/hyena_PNG27.png"
+      },
+      {
+        "name": "Leopards",
+        "image": "https://th.bing.com/th/id/OIP.H_4HCLf71Dh0EX3LwSns2AHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Humans",
+        "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid"
+      }
+    ],
+    "habitat": [
+      {
+        "name": "Savannas",
+        "image": "https://th.bing.com/th/id/OIP.6VAKXY4S9338OkFoQ9o8JQAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "name": "Grasslands",
+        "image": "https://th.bing.com/th/id/OIP._yK3PWiYh6OWxET_9UXNvwHaEo?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> Lions live about 10–14 years.<br><br><b>In Captivity:</b> They can live up to 20 years.<br><br><b>Threats:</b> Poaching, habitat loss, and human-wildlife conflict.",
+    "reproduction": "<b>Mating Season:</b> No fixed season.<br><br><b>Gestation:</b> About 110 days.<br><br><b>Birth:</b> Lionesses usually give birth to 2–4 cubs.<br><br><b>Care:</b> Cubs are raised within the pride and protected by adult females.",
+    "fun-facts": "<ul><li>Lions are the only truly social cats.</li><li>A lion’s roar can be heard from 5 miles away.</li><li>Male lions grow a thick mane as they mature.</li><li>They can sleep for up to 20 hours a day!</li></ul>",
+    "behavior": "Lions are powerful predators and extremely social. They hunt cooperatively and defend their territory from intruders. Females do most of the hunting, while males guard the pride. Lions communicate through roars, growls, and scent marking.",
+    "source": "https://en.wikipedia.org/wiki/Lion"
+  },
+  {
+    "name": "Indian Peafowl",
+    "scientificName": "Pavo cristatus",
+    "category": "Birds",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Peacock_Plumage.jpg/800px-Peacock_Plumage.jpg",
+    "description": "The Indian Peafowl, also known as the Indian Peacock, is the national bird of India and is known for its stunning iridescent blue and green plumage and a long, ornate tail. Males use their colorful feathers to attract mates, while females are more camouflaged. Peafowls are ground feeders but roost in trees at night for safety.",
+    "winterRegions": [
+      {
+        "name": "Indian Subcontinent",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/India-locator-map-blank.svg/800px-India-locator-map-blank.svg.png"
+      }
+    ],
+    "foodTypes": [
+      {
+        "name": "Seeds",
+        "image": "https://cdn-icons-png.flaticon.com/512/2718/2718224.png"
+      },
+      {
+        "name": "Insects",
+        "image": "https://cdn-icons-png.flaticon.com/512/578/578960.png"
+      },
+      {
+        "name": "Fruits",
+        "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png"
+      }
+    ],
+    "feederTypes": [],
+    "predator": [
+      {
+        "name": "Leopards",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616412.png"
+      },
+      {
+        "name": "Dogs",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+      },
+      {
+        "name": "Humans",
+        "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid"
+      }
+    ],
+    "habitat": [
+      {
+        "name": "Forests",
+        "image": "https://cdn-icons-png.flaticon.com/512/1995/1995458.png"
+      },
+      {
+        "name": "Grasslands",
+        "image": "https://cdn-icons-png.flaticon.com/512/1995/1995458.png"
+      },
+      {
+        "name": "Villages",
+        "image": "https://cdn-icons-png.flaticon.com/512/809/809957.png"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> Indian Peafowls live for about 15–20 years.<br><br><b>In Captivity:</b> They may live slightly longer.<br><br><b>Threats:</b> Habitat destruction, hunting, and predation.",
+    "reproduction": "<b>Mating Season:</b> Mainly during the monsoon.<br><br><b>Gestation:</b> Females lay 3–5 eggs.<br><br><b>Birth:</b> Chicks hatch after about 28 days.<br><br><b>Care:</b> The female cares for and protects the chicks alone.",
+    "fun-facts": "<ul><li>Only males have the large, colorful tail.</li><li>Their call is very loud and distinctive.</li><li>Peafowls can fly short distances despite their size.</li><li>They are symbols of beauty and grace in Indian culture.</li></ul>",
+    "behavior": "Indian Peafowls are terrestrial birds that are active during the day. They forage on the ground for food but roost in trees at night. Males perform courtship displays by fanning their tail feathers and shaking them to attract females.",
+    "source": "https://en.wikipedia.org/wiki/Indian_peafowl"
+  },
+  {
+    "name": "Black Panther",
+    "scientificName": "Panthera pardus (Melanistic Leopard)",
+    "category": "Mammal profile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Black_Panther_3.jpg/800px-Black_Panther_3.jpg",
+    "description": "The Black Panther is not a separate species but a melanistic variant of leopards or jaguars. In India, black panthers are actually leopards with a high concentration of melanin, giving them a dark coat. They are elusive, solitary predators known for their stealth and agility. Their dark coloration helps them blend into the dense forest undergrowth.",
+    "winterRegions": [
+      {
+        "name": "Western Ghats, India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/India_Ghats.png/800px-India_Ghats.png"
+      }
+    ],
+    "foodTypes": [
+      {
+        "name": "Deer",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616491.png"
+      },
+      {
+        "name": "Monkeys",
+        "image": "https://cdn-icons-png.flaticon.com/512/3435/3435631.png"
+      },
+      {
+        "name": "Birds",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+      }
+    ],
+    "feederTypes": [],
+    "predator": [
+      {
+        "name": "Humans",
+        "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid"
+      }
+    ],
+    "habitat": [
+      {
+        "name": "Tropical Forests",
+        "image": "https://cdn-icons-png.flaticon.com/512/1995/1995458.png"
+      },
+      {
+        "name": "Hills",
+        "image": "https://cdn-icons-png.flaticon.com/512/5903/5903510.png"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> 12–15 years.<br><br><b>In Captivity:</b> Up to 20 years.<br><br><b>Threats:</b> Habitat destruction and poaching.",
+    "reproduction": "<b>Mating Season:</b> Varies year-round.<br><br><b>Gestation:</b> About 90–105 days.<br><br><b>Birth:</b> Usually 2–4 cubs born in a hidden den.<br><br><b>Care:</b> Cubs stay with the mother for up to 2 years.",
+    "fun-facts": "<ul><li>The term 'Black Panther' refers to melanistic big cats, not a separate species.</li><li>They are extremely rare and secretive.</li><li>Their black coat is caused by a genetic mutation called melanism.</li><li>They are most commonly sighted in the dense forests of the Western Ghats.</li></ul>",
+    "behavior": "Black Panthers are nocturnal and highly territorial animals. They are solitary and avoid humans. Known for their stealth, they hunt silently and are agile climbers. Their dark fur makes them excellent ambush predators, especially at night.",
+    "source": "https://en.wikipedia.org/wiki/Black_panther"
+  },
+  {
+    "name": "Kashmir Stag",
+    "scientificName": "Cervus hanglu hanglu",
+    "category": "Mammal profile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hangul_%28Kashmir_Stag%29.jpg/800px-Hangul_%28Kashmir_Stag%29.jpg",
+    "description": "The Kashmir Stag, also known as Hangul, is a rare species of deer found only in the dense riverine forests of the Dachigam National Park in Jammu and Kashmir, India. Known for its majestic antlers and reddish coat, the Hangul is the only Asiatic survivor of the European red deer group. It is critically endangered due to habitat destruction, poaching, and low genetic diversity.",
+    "winterRegions": [
+      {
+        "name": "Dachigam National Park, Kashmir",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dachigam_National_Park_Kashmir.jpg"
+      }
+    ],
+    "foodTypes": [
+      {
+        "name": "Grass",
+        "image": "https://cdn-icons-png.flaticon.com/512/766/766787.png"
+      },
+      {
+        "name": "Leaves",
+        "image": "https://cdn-icons-png.flaticon.com/512/1795/1795181.png"
+      },
+      {
+        "name": "Bark",
+        "image": "https://cdn-icons-png.flaticon.com/512/8040/8040905.png"
+      }
+    ],
+    "feederTypes": [],
+    "predator": [
+      {
+        "name": "Leopards",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616555.png"
+      },
+      {
+        "name": "Humans",
+        "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg"
+      }
+    ],
+    "habitat": [
+      {
+        "name": "Dense Forests",
+        "image": "https://cdn-icons-png.flaticon.com/512/1995/1995458.png"
+      },
+      {
+        "name": "Riverine Valleys",
+        "image": "https://cdn-icons-png.flaticon.com/512/3077/3077255.png"
+      }
+    ],
+    "lifespan": "<b>In the Wild:</b> Typically around 15–20 years.<br><br><b>Threats:</b> Habitat fragmentation, poaching, inbreeding, and human encroachment are the major threats to the Kashmir Stag.",
+    "reproduction": "<b>Breeding Season:</b> September to October.<br><br><b>Gestation:</b> Around 7.5 to 8 months.<br><br><b>Birth:</b> One calf is born, typically between May and June.<br><br><b>Care:</b> Calves stay hidden in the undergrowth for protection in early weeks.",
+    "fun-facts": "<ul><li>The Kashmir Stag is the state animal of Jammu and Kashmir.</li><li>It was once found throughout the Kashmir Valley but is now restricted mainly to Dachigam.</li><li>Male antlers can have up to 16 points!</li></ul>",
+    "behavior": "Hanguls are shy, herbivorous animals that usually live in small groups. They are most active during early morning and late evening. During the rutting season, males call loudly and clash antlers to compete for mates. Outside of the breeding season, they are more elusive and harder to spot.",
+    "source": "https://en.wikipedia.org/wiki/Kashmir_stag"
+  },
+  {
+    "name": "Red Panda",
+    "scientificName": "Ailurus fulgens",
+    "category": "Mammal profile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/RedPandaFullBody.JPG",
+    "description": "The Red Panda is a small, tree-dwelling mammal native to the eastern Himalayas and southwestern China. Known for its reddish-brown fur, bushy tail, and adorable face, it is often mistaken for a raccoon or a bear. Despite its name, the Red Panda is not closely related to the Giant Panda. It is primarily nocturnal and crepuscular, spending most of its life in trees. Red Pandas are solitary and have a specialized diet mainly consisting of bamboo, though they also eat fruits, berries, and small insects.",
+    "winterRegions": [
+      {
+        "name": "Himalayas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/RedPandaDistribution.jpg"
+      },
+      {
+        "name": "Southwestern China",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/RedPandaDistribution.jpg"
+      }
+    ],
+    "foodTypes": [
+      { "name": "Bamboo", "image": "https://static.vecteezy.com/system/resources/previews/024/345/064/original/bamboo-plant-clipart-cartoon-style-free-png.png" },
+      { "name": "Berries", "image": "https://static.vecteezy.com/system/resources/previews/011/426/895/non_2x/fresh-berry-fruit-icon-free-vector.jpg" },
+      { "name": "Fruits", "image": "https://static.vecteezy.com/system/resources/previews/000/688/136/original/delicious-fruits-cartoons-vector.jpg" },
+      { "name": "Insects", "image": "https://static.vecteezy.com/system/resources/previews/010/853/363/original/cute-bug-cartoon-illustration-free-vector.jpg" },
+      { "name": "Bird Eggs", "image": "https://static.vecteezy.com/system/resources/previews/020/927/324/original/cartoon-egg-icon-free-vector.jpg" }
+    ],
+    "feederTypes": [
+      { "name": "Tree", "image": "https://static.vecteezy.com/system/resources/previews/022/691/418/non_2x/tree-icon-clipart-cartoon-design-free-png.png" },
+      { "name": "Ground", "image": "https://static.vecteezy.com/system/resources/previews/021/942/388/original/ground-with-grass-illustration-for-cartoon-scene-free-vector.jpg" }
+    ],
+    "predator": [
+      { "name": "Snow Leopard", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Snow_Leopard_Jim_Corbett_National_Park.jpg/640px-Snow_Leopard_Jim_Corbett_National_Park.jpg" },
+      { "name": "Martens", "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Martes_americana.jpg" },
+      { "name": "Humans", "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid" }
+    ],
+    "habitat": [
+      { "name": "Mountain Forests", "image": "https://cdn.vectorstock.com/i/preview-1x/40/44/green-forest-nature-cartoon-style-vector-45714044.jpg" },
+      { "name": "Temperate Forests", "image": "https://static.vecteezy.com/system/resources/previews/002/099/867/non_2x/forest-landscape-nature-scene-with-trees-free-vector.jpg" },
+      { "name": "Bamboo Groves", "image": "https://static.vecteezy.com/system/resources/previews/024/345/064/original/bamboo-plant-clipart-cartoon-style-free-png.png" }
+    ],
+    "lifespan": "Red Pandas generally live 8 to 10 years in the wild, though some can live up to 15 years in captivity. Their lifespan is affected by habitat loss, poaching, and limited food sources.",
+    "reproduction": "Red Pandas are solitary and only come together during mating season. <br><br><b>Mating Season:</b> January through March.<br><br><b>Gestation:</b> About 134 days. <br><br><b>Birth:</b> Females usually give birth to 1–4 cubs in the summer. Cubs stay in the nest for about 3 months and become independent after 8–10 months.",
+    "fun-facts": "<ul><li>Red Pandas use their long, bushy tails for balance and warmth.</li><li>They have a false thumb—an extended wrist bone—that helps them grasp bamboo.</li><li>Despite being called pandas, they're closer to raccoons than bears.</li><li>They are the original 'panda' discovered before the Giant Panda.</li></ul>",
+    "behavior": "Red Pandas are mostly nocturnal and crepuscular, meaning they are active at dawn and dusk. They are very territorial and mark their territory with scent glands. They are excellent climbers, using trees both for shelter and escape from predators. When threatened, they may stand on their hind legs to appear larger.",
+    "source": "https://nationalzoo.si.edu/animals/red-panda"
+  },
+  {
+    "name": "Nicobar Pigeon",
+    "scientificName": "Caloenas nicobarica",
+    "category": "Bird profile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Caloenas_nicobarica_-Bali_Bird_Park-8a.jpg/800px-Caloenas_nicobarica_-Bali_Bird_Park-8a.jpg",
+    "description": "The Nicobar Pigeon is a striking bird known for its iridescent plumage and unique appearance. Found in the Nicobar Islands and nearby regions, it is the closest living relative of the extinct Dodo. The Nicobar Pigeon has metallic green and copper feathers, a white tail, and red legs. It prefers dense forests on small islands and feeds on seeds, fruits, and grains. Due to habitat loss and hunting, its population is declining, and it is classified as Near Threatened.",
+    "winterRegions": [
+      {
+        "name": "Nicobar Islands",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/India_Andaman_and_Nicobar_Islands_locator_map.svg/800px-India_Andaman_and_Nicobar_Islands_locator_map.svg.png"
+      },
+      {
+        "name": "Southeast Asia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Southeast_Asia_%28orthographic_projection%29.svg/1280px-Southeast_Asia_%28orthographic_projection%29.svg.png"
+      }
+    ],
+    "foodTypes": [
+      { "name": "Seeds", "image": "https://cdn-icons-png.flaticon.com/512/2909/2909765.png" },
+      { "name": "Fruits", "image": "https://static.vecteezy.com/system/resources/previews/000/688/136/original/delicious-fruits-cartoons-vector.jpg" },
+      { "name": "Grains", "image": "https://cdn-icons-png.flaticon.com/512/135/135620.png" },
+      { "name": "Buds", "image": "https://cdn-icons-png.flaticon.com/512/3171/3171614.png" }
+    ],
+    "feederTypes": [
+      { "name": "Ground", "image": "https://static.vecteezy.com/system/resources/previews/021/942/388/original/ground-with-grass-illustration-for-cartoon-scene-free-vector.jpg" }
+    ],
+    "predator": [
+      { "name": "Humans", "image": "https://img.freepik.com/free-vector/teenage-friendship-cartoon-character_1308-132323.jpg?semt=ais_hybrid" },
+      { "name": "Rats", "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png" },
+      { "name": "Cats", "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png" }
+    ],
+    "habitat": [
+      { "name": "Tropical Islands", "image": "https://cdn-icons-png.flaticon.com/512/3208/3208723.png" },
+      { "name": "Mangroves", "image": "https://cdn-icons-png.flaticon.com/512/6147/6147171.png" },
+      { "name": "Coastal Forests", "image": "https://cdn-icons-png.flaticon.com/512/2909/2909769.png" }
+    ],
+    "lifespan": "The Nicobar Pigeon can live for around 10 to 15 years in the wild.<br><br><b>In Captivity:</b> They may live up to 20 years under good care.<br><br><b>Threats to Lifespan:</b> Habitat destruction, hunting, egg collection, and invasive species like rats and cats threaten their survival.",
+    "reproduction": "Nicobar Pigeons are monogamous and breed in colonies on remote islands.<br><br><b>Nesting:</b> They build simple nests using twigs and leaves, usually in trees or shrubs.<br><br><b>Eggs:</b> The female lays a single white egg. Both parents incubate the egg and feed the chick.<br><br><b>Chicks:</b> The chick is fed with 'pigeon milk' secreted by the parents' crops until it fledges after a few weeks.",
+    "fun-facts": "<ul><li>The Nicobar Pigeon is the closest living relative to the extinct Dodo.</li><li>It has beautiful metallic green feathers and a white tail.</li><li>They travel long distances between small islands to feed and roost.</li><li>They can be very shy and are mostly ground foragers.</li></ul>",
+    "behavior": "Nicobar Pigeons are social birds that often travel in flocks between islands. They are strong fliers and roost in trees or bushes. During the day, they forage on the ground for seeds and fruits. Despite their beauty, they are shy and hard to spot in the wild.",
+    "source": "https://example.com/more-about-nicobar-pigeon"
+  }
+  
+  
+  
+]
